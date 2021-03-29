@@ -1,0 +1,30 @@
+lie	V	2-2	Do n't lie to your parents .	The snow lies on the roof . 
+head	N	4-1	They were at the head of the attack .	The head of the column advanced boldly .
+left	N	2-3	The political left is not holding enough power .	Jab with your left .
+rhythm	N	5-7	The piece has a fast rhythm .	We walked with a quick , even rhythm .
+drive	V	1-2	We drive the turnpike to work .	The amplifier drives the tube .
+well	V	1-2	Tears well in her eyes .	The currents well up .
+treat	V	3-0	I like to treat myself to a day at a spa when I am depressed .	Treat the infection with antibiotics .
+tab	N	4-9	The collar has a tab with a button hole .	The filing cards were organized by cards having indexed tabs .
+center	N	1-1	Shopping center .	The center fumbled the handoff .
+carry	V	1-2	To carry the war from Greece into Asia .	The jar carries wine .
+piece	N	3-4	He sacrificed a piece to get a strategic advantage .	He wrote an interesting piece on Iran .
+presence	N	3-6	He sensed the presence of danger .	Any painter can benefit from the presence of a live model from which to draw .
+butt	N	7-2	He deserves a good kick in the butt .	Get your butt to the car .
+make	V	0-0	Make love , not war .	Make revolution .
+get	V	3-2	You can not get water out of a stone .	We 'll get them !
+drink	N	5-5	Can I buy you a drink ?	I asked for a hot drink .
+shot	N	1-3	The shot was wide off the mark .	He poured a shot of whiskey .
+get	V	2-3	Did you get it ?	It must be getting more serious .
+round	V	0-1	Round off the amount .	Ninety-five rounds up to one hundred .
+end	N	1-1	One end of the box was marked ` This side up ' .	The ends justify the means .
+play	V	0-1	Play games .	He plays on three teams .
+gravitation	N	1-0	The gravitation between two bodies is proportional to the product of their masses and inversely proportional to the square of the distance between them .	Gravitation can not be held responsible for people falling in love "-- Albert Einstein .
+read	V	2-1	I can read his feelings in his face .	She read my mind and promptly rose to get me a glass of water .
+reaction	N	12-5	When I last tried to eat strawberries I had a terrible allergic reaction .	John feared his mother 's reaction when she saw the broken lamp .
+water	V	4-1	I need to go water the cattle .	We watered the buffalo .
+relationship	N	10-1	He did n't want his wife to know of the relationship .	The relationship between mothers and their children .
+work	V	4-2	Do you want to work after the age of 60 ?	She never worked because she inherited a lot of money .
+bum	N	4-9	That mechanic 's a bum - he could n't fix a yo-yo .	That guy keeps interrupting the concert . Throw the bum out !
+appearance	N	4-2	A person makes his appearance as an historian , an artist , or an orator .	His sudden appearance surprised me .
+connect	V	2-1	Can you connect the two loudspeakers ?	Herman connected the computers .

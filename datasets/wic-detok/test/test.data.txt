@@ -1,0 +1,1400 @@
+water	The smell of fried onions makes my mouth water.	His eyes were watering.	41	46	14	22
+value	The value assigned was 16 milliseconds.	I establish the colors and principal values by organizing the painting into three values -- dark, medium ... and light -- Joe Hing Lowe.	4	9	37	43
+presence	He felt the presence of an evil force.	He sensed the presence of danger.	12	20	14	22
+vision	He had a vision of the Virgin Mary.	He had a vision of his own death.	9	15	9	15
+rim	Rim a hat.	Sugar rimmed the dessert plate.	0	3	6	12
+guard	The prison guard unlocked the door of the cell.	We let our guard down.	11	16	11	16
+stock	He owns a controlling share of the company's stock.	They will cut round stock to 1-inch diameter.	45	50	20	25
+grey	He was dressed in grey.	The Confederate army was a vast grey.	18	22	32	36
+ring	I'll give you a ring when the plane lands.	She had rings on every finger.	16	20	8	13
+bitch	Karma's a bitch.	This problem is a real bitch.	10	15	23	28
+fiddle	The reporter fiddle with the facts.	Zuckerman fiddled that song very nicely.	13	19	10	17
+escape	Their escape route.	They installed a second hatch as an escape.	6	12	36	42
+jolt	The door closed with a jolt.	All the jars and jolts were smoothed out by the shock absorbers.	23	27	17	22
+cream	The cream of England's young men were killed in the Great War.	The cream of a collection of books or pictures.	4	9	4	9
+channel	A satellite TV channel.	They offer more than one hundred channels.	15	22	33	41
+distress	Originally distress was a landlord's remedy against a tenant for unpaid rents or property damage but now the landlord is given a landlord's lien.	The patient appeared to be in distress.	11	19	30	38
+fit	He had a laughing fit which lasted more than ten minutes.	He threw a fit when his car broke down.	18	21	11	14
+kid	Kid gloves.	They were able to send their kids to college.	0	3	29	33
+end	The phone rang at the other end.	Both ends wrote at the same time.	28	31	5	9
+pocketbook	That car is too expensive for my pocketbook.	The publishers brought out small format pocketbooks of the whole of their nature series.	33	43	40	51
+pull	The pull up the hill had him breathing harder.	She took a pull on her cigarette.	4	8	11	15
+grind	Grind the spices in a mortar.	Grind a lens.	0	5	0	5
+boil	Add the noodles when the water comes to the boil.	They brought the water to a boil.	44	48	28	32
+stringer	A second stringer.	A first stringer.	9	17	8	16
+receive	Receive letters from the front.	The lady is receiving Sunday morning.	0	7	12	21
+set	Before the set of sun.	They played two sets of tennis after dinner.	11	14	16	20
+shower	Her church group has planned an adoption shower.	Would male strippers be appropriate for the divorce shower?	41	47	52	58
+start	To start a stream of water.	We simply could not start the engine.	3	8	20	25
+hearth	They sat on the hearth and warmed themselves before the fire.	The hearth was black with the charcoal of many fires.	16	22	4	10
+celebrate	Celebrate Christmas.	To celebrate a birthday.	0	9	3	12
+burst	The bubble burst.	I blew the balloon up too much, and it burst.	11	16	39	44
+pitch	It is hard to get this pitch off of my hand.	He was employed to see that his paper's news pitches were not trespassed upon by rival vendors.	23	28	45	52
+earth	The earth shook for several minutes.	She sighed when the plane's wheels finally touched earth.	4	9	51	56
+close	Close a book.	Close a wound.	0	5	0	5
+cure	Cure pickles.	The smoke and heat cures the meat.	0	4	19	24
+deposit	Deposit the suitcase on the bench.	She deposits her paycheck every month.	0	7	4	12
+second	He came in a close second.	The treasure is 2 minutes and 45 seconds south of here.	19	25	33	40
+ligate	Ligate the artery.	The enzyme ligated.	0	6	11	18
+exile	Men in exile dream of hope.	They chose exile rather than assimilation.	7	12	11	16
+impulse	He bought it on an impulse.	Profound religious impulses.	19	26	19	27
+tier	Tier upon tier of huge casks.	A three tier wedding cake.	0	4	8	12
+nose	The hound has a good nose.	The nose of the rocket heated up on reentry.	21	25	4	8
+smoking	Smoking stinks.	Smoking is permitted.	0	7	0	7
+channel	We will channel the traffic to the left with these cones.	Channel information towards a broad audience.	8	15	0	7
+bask	To bask in someone's favour.	The seals were basking in the sun.	3	7	15	22
+absorption	The absorption of light, heat, electricity, etc.	The absorption of photons by atoms or molecules.	4	14	4	14
+satisfaction	The satisfaction of their demand for better services.	The chef tasted the sauce with great satisfaction.	4	16	37	49
+complexion	A rugged complexion.	Diphthongs are complexions of vowels.	9	19	15	26
+grasp	He has a good grasp of accounting practices.	A terrible power had her in its grasp.	14	19	32	37
+appropriation	A person's appropriation of property belonging to another is dishonest.	The necessary funds were obtained by the government's appropriation of the company's operating unit.	11	24	54	67
+stage	We are in a transitional stage in which many former ideas must be revised or rejected.	It set the stage for peaceful negotiations.	25	30	11	16
+stimulate	This herbal infusion doesn't stimulate.	Coffee and tea stimulate me.	29	38	15	24
+weather	They were hoping for good weather.	Wooden garden furniture must be well oiled as it is continuously exposed to weather.	26	33	76	83
+pick	Pick flowers.	Pick mushrooms.	0	4	0	4
+support	The foundation provided support for the experiment.	The policy found little public support.	24	31	31	38
+gang	Do a drop for the telephone gang through the ceiling of the wiring closet.	A gang of wires.	28	32	2	6
+drink	You can lead a horse to water but you can't make him drink.	Cynthia drank the wine.	53	58	8	13
+feel	I can feel the sadness in his poems.	The runner felt her pulse.	6	10	11	15
+anesthetize	Anesthetize the gum before extracting the teeth.	The patient must be anesthetized before the operation.	0	11	20	32
+nail	Nail the board onto the wall.	The chemists could not nail the identity of the chromosome.	0	4	23	27
+susurrus	A soft susurrus of conversation.	The soft susurrus and sighs of the branches. -- Longfellow.	7	15	9	17
+device	The device is small enough to wear on your wrist.	He would stoop to any device to win a point.	4	10	22	28
+planting	The landscape architect suggested a small planting in the northwest corner.	He ordered the planting of policemen outside every doorway.	42	50	15	23
+organization	Over time, the spontaneous movement had become an organization.	His compulsive organization was not an endearing quality.	50	62	15	27
+kind	This is a strange kind of tobacco.	What kinds of desserts are there?	18	22	5	10
+chip	Be careful not to chip the paint.	Chip a tooth.	18	22	0	4
+set	Set a broken bone.	We set up the sprinkler.	0	3	3	6
+favor	She enjoyed the queen's favor.	To fall out of favor.	24	29	15	20
+trial	He had a fair trial and the jury found him guilty.	Most of these complaints are settled before they go to trial.	14	19	55	60
+vagina	The vagina receives the penis during coitus.	The vagina is elastic enough to allow the passage of a fetus.	4	10	4	10
+flame	The sky seemed to flame in the Hawaiian sunset.	The person who posted an inflammatory message got flamed.	18	23	50	56
+sleeper	The winner was a true sleeper -- no one expected him to get it.	The British call a railroad tie a sleeper.	22	29	34	41
+overwinter	Insects may overwinter in fallen fruit if it is not removed.	Shackleton's men overwintered on Elephant Island.	12	22	17	29
+render	To render Latin into English.	She rendered the French poem into English.	3	9	4	12
+bump	Bump and grind.	My car bumped into the tree.	0	4	7	13
+focus	In focus.	The focus of infection.	3	8	4	9
+impulse	The impulse knocked him over.	The total impulse from the impact will depend on the kinetic energy of the bullet.	4	11	10	17
+here	Where do we go from here?	An Alzheimer patient's in here may in his mind be anywhere he called home in the time he presently re-lives.	20	24	26	30
+rein	Rein a horse.	He reined in his horses in front of the post office.	0	4	3	9
+rekindle	Rekindle her love.	Rekindle hopes.	0	8	0	8
+deliberation	He was a man of judicial deliberation.	A little deliberation would have deterred them.	25	37	9	21
+form	When icicles start to form on the eaves you know the roads will be icy.	The water formed little beads.	22	26	10	16
+frost	Frost the glass.	She frosts her hair.	0	5	4	10
+meet	Meet a need.	My proposal met with much opposition.	0	4	12	15
+sickness	Drugs have become a sickness they can not cure.	A great sickness of his judgment.	20	28	8	16
+agency	The agency of providence.	Agency for Toxic Substances and Disease Registry.	4	10	0	6
+include	I include you in the list of culprits.	The list includes the names of many famous writers.	2	9	9	17
+top	I don't want to be bald, so just top my hair.	Top trees and bushes.	33	36	0	3
+mind	I wouldn't mind an ice cream right now.	I don't mind your behavior.	11	15	8	12
+consensus	The lack of consensus reflected differences in theoretical positions.	Those rights and obligations are based on an unstated consensus.	12	21	54	63
+curve	To curve a line.	The road curved sharply.	3	8	9	15
+plague	A plague of grasshoppers.	Those children are a damn plague.	2	8	26	32
+pleasure	The pleasure of his company.	He was tingling with pleasure.	4	12	21	29
+hem	It seeped along the hem of his jacket.	Let down the hem.	20	23	13	16
+union	There is strength in union.	Lightning produced an unusual union of the metals.	21	26	30	35
+disposition	She has a sunny disposition.	He has such a foul disposition.	16	27	19	30
+contour	It defines a major contour of this administration.	The contours of the melody.	19	26	4	12
+test	The test was standardized on a large sample of students.	When the test was stolen the professor had to make a new set of questions.	4	8	9	13
+passive	'The ball was thrown by the boy' uses the passive voice.	'The ball was thrown' is an abbreviated passive.	42	49	40	47
+couple	He's coming for a couple of days.	The engaged couple.	18	24	12	18
+haul	Haul vegetables to the market.	Haul stones from the quarry in a truck.	0	4	0	4
+movement	Politicians have to respect a mass movement.	The second movement is slow and melodic.	35	43	11	19
+debt	He is badly in debt.	I am in your debt.	15	19	13	17
+instill	Instill medication into my eye.	Her presence instilled faith into the children.	0	7	13	22
+see	Do you see what I mean?	See that the curtains are closed.	7	10	0	3
+color	She used a different color for the trim.	Color has been a sensitive issue in many societies.	21	26	0	5
+constituent	The animal constituent of plankton.	Needs continued support by constituents to be re-elected.	11	22	27	39
+share	I'd like to share this idea with you.	We shared the cake.	12	17	3	9
+audience	Someone in the audience began to cough.	We joined the audience just as the lights went down.	15	23	14	22
+vice	Vice offends the moral standards of the community.	Smoking is a vice, not a virtue.	0	4	13	17
+conduct	You can not conduct business like this.	To conduct the affairs of a kingdom.	12	19	3	10
+roominess	His unselfishness gave him great intellectual roominess.	Roominess in this size car is always a compromise.	46	55	0	9
+stem	Stem the tide.	To stem a tide.	0	4	3	7
+raise	We raise hogs here.	Raise an army.	3	8	0	5
+center	It is in the center of town.	They were raising money to build a new center for research.	13	19	39	45
+feeling	I had a strange feeling in my leg.	He had a queasy feeling.	16	23	16	23
+harvest	A harvest of love.	They gathered a harvest of examples.	2	9	16	23
+pickup	Garbage pickup is on Mondays and Thursdays.	She needed the pickup that coffee always gave her.	8	14	15	21
+cover	When the pot comes to a boil, cover it and reduce the heat to medium.	This farm covers some 200 acres.	30	35	10	16
+endorse	Endorse cheques.	Endorse a new project.	0	7	0	7
+age	We age every day -- what a depressing thought!	She aged gracefully.	3	6	4	8
+efflux	We all age through the efflux of time.	The efflux of matter from a boil can be painful.	23	29	4	10
+top	At the top of his profession.	To be at the top of one's class, or at the top of the school.	7	10	13	16
+foot	Foot the bill.	To foot (or foot up) an account.	0	4	3	7
+replay	Replay a point.	We replayed the game.	0	6	3	11
+discovery	The defense argued that the plaintiff's discovery was inadequate.	The purpose of the voyage was discovery.	40	49	30	39
+plus	Two plus two equals four.	Four plus three equals seven.	4	8	5	9
+cradle	Cradle gold.	He cradled the infant in his arms.	0	6	3	10
+squeamishness	The program was withdrawn because of the squeamishness of some viewers.	He refused to allow squeamishness to deter him from his duty.	41	54	20	33
+splash	I heard a splash when the rock landed in the pond.	The painter put a splash of blue on the wall to make it more colorful.	10	16	18	24
+edition	They issued a limited edition of Bach recordings.	The boy is a younger edition of his father.	22	29	21	28
+puddle	His chair sat in a puddle of books and magazines.	There were puddles of muddy water in the road after the rain.	19	25	11	18
+popularity	This gallant laboring to avoid popularity falls into a habit of affectation. -- Ben Jonson.	His charm soon won him affection and popularity.	31	41	37	47
+oxygenate	Oxygenate blood.	After we oxygenated the river, the fish returned.	0	9	9	19
+jump	The parachutist didn't want to jump.	Every year, hundreds of people jump off the Golden Gate bridge.	31	35	31	35
+underlay	To underlay a cut, plate, or the like, for printing.	Underlay the plate.	3	11	0	8
+shade	The butterfly wings shade to yellow.	Shade your eyes when you step out into the bright sunlight.	20	25	0	5
+drive	Can you drive this four-wheel truck?	He drives me mad.	8	13	3	9
+correction	Market runups are invariably followed by a correction.	The correction of his vision with eye glasses.	43	53	4	14
+expense	At the expense of.	He kept a careful record of his expenses at the meeting.	7	14	32	40
+voice	After the fire a still small voice. -- 1 Kings 19:12.	A singer takes good care of his voice.	29	34	32	37
+populate	Populate the forest with deer and wild boar for hunting.	Deer are populating the woods.	0	8	9	19
+fuckup	You've got to fire that fuckup.	Forgetting our anniversary was a major fuckup.	24	30	39	45
+smear	Smear the wall with paint.	She smeared her lips with lipstick.	0	5	4	11
+writing	He turned the paper over so the writing wouldn't show.	The doctor's writing was illegible.	32	39	13	20
+pretension	His pretension to the crown.	The town still puts forward pretensions as a famous resort.	4	14	28	39
+stater	Keystone stater.	Farm staters.	9	15	5	12
+taker	She is known as quite a risk taker.	The study could not confirm the real percentage of drug takers in the country.	29	34	56	62
+carpet	The larvae of some moths spin a web that resembles a carpet.	A carpet of flowers.	53	59	2	8
+style	In the characteristic New York style.	This style of shoe is in demand.	31	36	5	10
+association	The host is not always injured by association with a parasite.	His association of his father with being beaten was too strong to break.	34	45	4	15
+devotee	A devotee of classical music.	He was a devotee of Arnold Schwarzenegger.	2	9	9	16
+failure	The mechanic's failure to check the brakes.	He resented my failure to return his call.	15	22	15	22
+share	They share a language.	To share a shelter with another.	5	10	3	8
+ceiling	The dining room had an ornate ceiling.	He put a ceiling on the number of women who worked for him.	30	37	9	16
+roughness	The roughness of her voice was a signal to keep quiet.	Men associate the roughness of nonstandard working-class speech with masculinity.	4	13	18	27
+height	She's at the height of her career.	At the height of her career.	13	19	7	13
+conversion	The conversion of equations.	His conversion to the Catholic faith.	4	14	4	14
+fact	Your fears have no basis in fact.	How much of the story is fact and how much fiction is hard to tell.	28	32	25	29
+cast	Cast lots.	Cast a spell.	0	4	0	4
+add	To add numbers.	This adds a light note to the program.	3	6	5	9
+aroma	I love the aroma of cinnamon.	The toilet was emitting a pungent, foul aroma.	11	16	40	45
+loop	Loop a rope.	The bicycle looped around the tree.	0	4	12	18
+treatment	The right to equal treatment in the criminal justice system.	The treatment of water sewage.	19	28	4	13
+support	I support France in the World Cup.	She supported him during the illness.	2	9	4	13
+salvation	They turned to individualism as their salvation.	Tourism was their economic salvation.	38	47	27	36
+notice	His hard work soon attracted the teacher's notice.	He gave notice two months before he moved.	43	49	8	14
+past	Past tense.	Reporters dug into the candidate's past.	0	4	35	39
+handwriting	Handwriting can be slow and painful for one with arthritis.	She recognized his handwriting.	0	11	19	30
+rail	Rail off the crowds from the Presidential palace.	She railed against the bad social policies.	0	4	4	10
+construction	She wore her hair in an amazing construction of whirls and ribbons.	During the construction we had to take a detour.	32	44	11	23
+love	Their love left them indifferent to their surroundings.	She was his first love.	6	10	18	22
+register	Did this event register in your parents' minds?	Did you register any change when I pressed the button?	15	23	8	16
+hour	The hour grows late and I must go home.	The hour is getting late.	4	8	4	8
+penetrate	The hikers did not manage to penetrate the dense forest.	She was penetrated with sorrow.	29	38	8	18
+den	A den of vice.	An opium den.	2	5	9	12
+martini	My boss is out on another of his three martini lunches.	Will you join us at six o'clock for martinis?	39	46	36	44
+differ	I beg to differ!	The winter schedule differed from the spring schedule.	9	15	20	28
+cord	The bundle was tied with a cord.	The burglar tied up the victim with a cord.	27	31	38	42
+truss	Truss the roofs.	Trussed bridges.	0	5	0	7
+blue	The boys in blue marched to the pipers.	She was wearing blue.	12	16	16	20
+point	A point is defined by its coordinates.	The point of the arrow was due north.	2	7	4	9
+enjoy	I plan to go travelling while I still enjoy good health.	Enjoy privileges.	38	43	0	5
+receive	These aspects of civilization do not find expression or receive an interpretation.	His movie received a good review.	56	63	10	18
+batch	We made a batch of cookies to take to the party.	A batch of letters.	10	15	2	7
+production	They export most of their agricultural production.	The widget making machine is being used for production now.	39	49	44	54
+appeal	An appeal to raise money for starving children.	Their appeal was denied in the superior court.	3	9	6	12
+object	The sole object of her trip was to see her children.	It was full of rackets, balls and other objects.	9	15	40	47
+park	There are laws that protect the wildlife in this park.	The put the car in park and got out.	49	53	19	23
+need	She satisfied his need for affection.	God has no need of men to accomplish His work.	18	22	11	15
+chop	Chop a hole in the ground.	Chop meat.	0	4	0	4
+question	There is no question about the validity of the enterprise.	There was a question about my training.	12	20	12	20
+simmer	Simmer the sauce.	Simmering water.	0	6	0	9
+narrow	I can not narrow down the rules for this game.	The road narrowed.	10	16	9	17
+administer	Administer the last unction.	Administer an exam.	0	10	0	10
+period	A change soon put a period to my tranquility.	Death put a period to his endeavors.	20	26	12	18
+homer	The first baseman hit a homer to lead off the ninth.	Each of the pigeon fanciers released a homer at the same time.	24	29	39	44
+palpitate	When he just looks at me, my heart begins to palpitate with excitement.	His heart palpitated.	45	54	10	20
+moon	The clock had a moon that showed various phases.	He made a moon lamp that he used as a night light.	16	20	10	14
+inexperience	I failed to get the job due to inexperience.	Procedural inexperience created difficulties.	31	43	11	23
+navel	They argued whether or not Adam had a navel.	You were not supposed to show your navel on television.	38	43	35	40
+course	The course of the river.	We offer seafood as the first course.	4	10	30	36
+retie	Retie the string and make it strong enough now.	She stopped walking for a moment to retie her shoe.	0	5	36	41
+matter	It does not matter much.	It matters that they left.	12	18	3	10
+half	Half an hour.	You don't know the half of it.	0	4	19	23
+close	Close the circuit.	Close up an umbrella.	0	5	0	5
+slave	A slave to fashion.	A slave to cocaine.	2	7	2	7
+remount	Remount a regiment.	He remounted his horse.	0	7	3	12
+holder	Put your umbrella in the umbrella holder.	A towel holder.	34	40	8	14
+post	Post a sign.	I'll post the news on the bulletin board.	0	4	5	9
+smolder	The remains of the bonfire were left to smolder for hours.	A smoldering fire.	40	47	2	12
+unearth	To unearth a secret.	The CIA unearthed a plot to kill the President.	3	10	8	17
+custody	Your guests are now in my custody.	The mother was awarded custody of the children.	26	33	23	30
+contribution	I am proud of my contribution in advancing the project.	He expected his contribution to be repaid with interest.	17	29	16	28
+scan	You could see the tumor in the CAT scan.	He made a thorough scan of the beach with his binoculars.	35	39	19	23
+exposure	The studio had a northern exposure.	The exposure of his anger was shocking.	26	34	4	12
+state	He was in such a state you just couldn't reason with him.	Though legally single nations, many states comprise several distinct cultural or ethnic groups.	17	22	36	42
+shopping	Does her shopping at the mall rather than down town.	Went shopping for a reliable plumber.	9	17	5	13
+surrender	The squatters had to surrender the building after the police moved in.	The last Taleban fighters finally surrendered.	21	30	34	45
+fetish	I know a guy who has a foot fetish.	Common male fetishes are breasts, legs, hair, shoes, and underwear.	28	34	12	20
+favor	The outcome was in his favor.	That style is in favor this season.	23	28	17	22
+overreact	Please try not to overreact if she drives badly when she is first learning.	Don't overreact to the bad news -- take it easy.	18	27	6	15
+zap	Zap the enemy.	If it's not warm in the middle, zap it some more.	0	3	32	35
+principal	She sent unruly pupils to see the principal.	A portion of your mortgage payment goes to reduce the principal, and the rest covers interest.	34	43	54	63
+honour	She swore on her honour.	His honour is at stake.	17	23	4	10
+suggestion	It was a suggestion we couldn't refuse.	Suggestion often works better than explicit demand.	9	19	0	10
+shade	As the sun moved he readjusted the shade.	They used umbrellas as shades.	35	40	23	29
+house	The house gets a percentage of every bet.	They had a large carriage house.	4	9	26	31
+type	The capable type.	The word 'element' contains five different types of character.	12	16	43	48
+plant	Plant fish.	Plant a thought in the students' minds.	0	5	0	5
+yogi	Gurdjieff connects this type of breathing with yogi breathing.	It's a yogi trick of some sort.	47	51	7	11
+selection	The store carried a large selection of shoes.	I've brought a selection of fine cheeses to go with your wine.	26	35	15	24
+inclination	Artillery must take account of a weapon's precise inclination.	He walked with a heavy inclination to the right.	50	61	23	34
+moderate	Moderate your alcohol intake.	Moderate your speed.	0	8	0	8
+engage	The teeth of one cogwheel engage those of another.	Make sure the gear is engaged.	26	32	22	29
+slice	A slice of the company's revenue.	A slice of bread.	2	7	2	7
+arrangement	He changed the arrangement of the topics.	The arrangement of the furniture.	15	26	4	15
+gasp	She gave a gasp and fainted.	I'm popping out for a gasp.	11	15	22	26
+identity	The identity under numerical multiplication is 1.	She guessed the identity of his lover.	4	12	16	24
+day	Every dog has its day.	Two days later they left.	18	21	4	8
+eyeful	They wanted to see violence and they got an eyeful.	She was a statuesque redheaded eyeful.	44	50	31	37
+sit	I asked him to sit.	She sat on the jury.	15	18	4	7
+girlfriend	His girlfriend kicked him out.	Marc went to the park with his girlfriend and watched the sunset with her.	4	14	31	41
+ribbon	A steel or magnesium ribbon.	Sails torn to ribbons.	21	27	14	21
+wind	That's a lot of wind.	As they accelerated onto the motorway, the wind tore the plywood off the car's roof-rack.	16	20	43	47
+splash	Her red hat gave her outfit a splash of color.	Just a splash of whiskey.	30	36	7	13
+sign	Don't forget the minus sign.	It was a sign from God.	23	27	9	13
+spreader	Ellen used a spreader to butter her bagel.	He used his knife as a spreader.	13	21	23	31
+seize	To seize a ship after libeling.	The movie seized my imagination.	3	8	10	16
+seal	A coat of seal.	Close the lid tightly to get a good seal.	10	14	36	40
+print	Using a crayon, the girl made a print of the leaf under the page.	Paw prints were everywhere.	32	37	4	10
+wax	Wax the car.	The moon is waxing.	0	3	12	18
+intend	What do his words intend?	She was intended to become the director.	18	24	8	16
+reserve	We managed to reserve a table at Maxim's.	Reserve me a seat on a flight.	14	21	0	7
+drip	I put a drip of vanilla extract in my hot cocoa.	The constant sound of dripping irritated him.	8	12	22	30
+stoop	I won't stoop to reading other people's mail.	He stooped to tie his shoe-laces.	8	13	3	10
+seizure	The seizure of a thief, a property, a throne, etc.	The search warrant permitted the seizure of evidence.	4	11	33	40
+career	He had a long career in the law.	The general had had a distinguished career.	14	20	36	42
+garden	Our garden is overgrown with weeds.	This house has a swimming pool, a tent, a swing set and a fountain in the garden.	4	10	74	80
+offing	There was a wedding in the offing.	There was a ship in the offing.	27	33	24	30
+stop	It came to a stop at the bottom of the hill.	The third baseman made some remarkable stops.	13	17	39	44
+lifeline	She offered me a lifeline in my time of grief.	The airlift provided a lifeline for Berlin.	17	25	23	31
+hit	One boy hit the other.	He hit her hard in the face.	8	11	3	6
+counsel	Psychiatrists, psychologists, social workers and other mental health professionals counsel clients.	The lawyer counselled his client to remain silent.	83	90	11	21
+adjoin	The living room and dining room adjoin each other.	I adjoin a copy of your my lawyer's letter.	32	38	2	8
+automation	This factory floor is a showcase for automation and robotic equipment.	Automation replaces human workers by machines.	37	47	0	10
+setter	She has a spaniel and a red setter.	Some crossword setters work for various newspapers under different pseudonyms.	28	34	15	22
+major	She is a math major.	She is a linguistics major.	14	19	21	26
+fault	The fault lies with you.	It was John's fault.	4	9	14	19
+juncture	We're at a crucial juncture in our relationship.	At that juncture he had no idea what to do.	19	27	8	16
+hand	Hand me the spoon, please.	He handed them the letter.	0	4	3	9
+accept	To accept the report of a committee.	The cow accepted the bull.	3	9	8	16
+guard	Guard my possessions while I'm away.	There would be men guarding the horses.	0	5	19	27
+zinger	She tried to think of some killer of an argument, a real zinger that would disarm all opposition.	He always greeted me with a new zinger.	57	63	32	38
+snap	He can hear the snap of a twig.	A cold snap in the middle of May.	16	20	7	11
+shake	Don't shake your fist at me!	These stories shook the community.	6	11	14	19
+bury	Bury a bone.	They buried the stolen goods.	0	4	5	11
+umbrella	Quick, grab that umbrella before you get rained on!	An air umbrella over England.	17	25	7	15
+catch	If you leave now you might catch him.	Did you catch that allusion?	27	32	8	13
+disorder	The class was thrown into disorder when the teacher left the room.	The army tried to prevent disorder when claims the elections had been rigged grew stronger.	26	34	26	34
+manage	The young violinist didn't manage her bow very well.	She managed her parents' affairs after they got too old.	27	33	4	11
+map	We haven't even begun to map the many galaxies that we know exist.	Sorrow was mapped on the mother's face.	25	28	11	17
+irony	The irony of Ireland's copying the nation she most hated.	Irony is wasted on the stupid.	4	9	0	5
+organize	Can you help me organize my files?	Organize a strike.	16	24	0	8
+wade	Can we wade across the river to the other side?	Wade the pond.	7	11	0	4
+tone	A clergyman improved the tone of the meeting.	They tested his hearing with pure tones of different frequencies.	25	29	34	39
+ball	The children were playing ball on the beach.	She kicked him in the balls and got away.	26	30	22	27
+shuffle	Don't forget to shuffle the cards.	The data packets are shuffled before transmission.	16	23	21	29
+oppose	The senator said he would oppose the bill.	The board opposed his motion.	26	32	10	17
+demystify	The article was written to demystify the mechanics of the internal combustion engine.	Let's demystify the event by explaining what it is all about.	27	36	6	15
+square	You can compute the area of a square if you know the length of its sides.	A checkerboard has 64 squares.	30	36	22	29
+zero	The zero sign in American Sign Language is considered rude in some cultures.	The probability is 1 in 1,000,000,000,000,000 -- a number having five ciphers of zeros.	4	8	81	86
+residence	He refused to live in the governor's residence.	A person can have several residences.	37	46	26	36
+administer	Administer critical remarks to everyone present.	She administers the funds.	0	10	4	15
+commit	Commit a random act of kindness.	She committed herself to the work of God.	0	6	4	13
+pass	He attempted the examination, but did not expect to pass.	The sports car passed all the trucks.	52	56	15	21
+divest	The company decided to divest.	The board of trustees divested $20 million in real estate property.	23	29	22	30
+bandwagon	The gaudy bandwagon led the circus parade.	When they saw how things were going everybody jumped on the bandwagon.	10	19	60	69
+scram	If you don't scram, I'll leave instead!	Scram!	13	18	0	5
+relation	He was the hero according to his own relation.	He has distant relations back in New Jersey.	37	45	15	24
+growth	The growth of population.	Growth was dampened by a softening of the global economy in 2001, but picked up in the subsequent years due to strong growth in China.	4	10	118	124
+relief	He enjoyed his relief from responsibility.	The contributions provided some relief for the victims.	15	21	32	38
+trip	He recited the whole poem without a single trip.	An acid trip.	43	47	8	12
+start	Who will start?	I start at eight in the morning.	9	14	2	7
+matter	Is anything the matter?	He always took some reading matter with him on the plane.	16	22	28	34
+hearing	They make good music -- you should give them a hearing.	They condemned him without a hearing.	47	54	29	36
+involvement	He escaped involvement in the accident.	There was additional involvement of the liver and spleen.	11	22	21	32
+bank	He sat on the bank of the river and watched the currents.	That bank holds the mortgage on my home.	14	18	5	9
+evacuate	Evacuate the bottle.	After the earthquake, residents were evacuated.	0	8	37	46
+retroversion	The teacher translated Latin texts into English which he gave to his students for retroversion.	Retroversion of the uterus.	82	94	0	12
+appeal	An appeal for help.	An appeal to the public to keep calm.	3	9	3	9
+charge	He was arrested on a charge of larceny.	That's a slanderous charge of abuse of trust.	21	27	20	26
+gravitate	Boys gravitate towards girls at that age.	The stars gravitate towards each other.	5	14	10	19
+series	The third series of Friends aired from 1996 to 1997.	The harmonic series has been much studied.	10	16	13	19
+break	Break a record.	He broke the men's 100-meter record.	0	5	3	8
+hear	We must hear the expert before we make a decision.	I heard a sound from outside the window.	8	12	2	7
+beat	Beat the drum.	I got beaten up by thugs on my way home.	0	4	6	12
+stretch	Beyond any stretch of his understanding.	A stretch of clear water.	11	18	2	9
+rendition	Often imitations are extended to provide a more accurate rendition of the child's intended meaning.	They heard a live rendition of three pieces by Schubert.	57	66	18	27
+endorsement	Companies sometimes pay millions for product endorsement by celebrities.	A star athlete can make a lot of money from endorsements.	45	56	44	56
+bank	Bank on your good education.	The pilot had to bank the aircraft.	0	4	17	21
+access	He took a wrong turn on the access to the bridge.	He gained access to the building.	28	34	10	16
+liquidate	Liquidate a company.	The mafia liquidated the informer.	0	9	10	20
+right	We're on the side of right in this contest.	Mineral rights.	21	26	8	14
+afterthought	The garage was an afterthought.	This whole remodeling was an afterthought, we were only going to paint and call it good.	18	30	29	41
+asthmatic	The painful gasps of a dying asthmatic.	She is a chronic asthmatic.	29	38	17	26
+picture	The author gives a depressing picture of life in Poland.	Too often the narrative was interrupted by long word pictures.	30	37	53	61
+tread	To tread a path.	She trod with care as the ground was slippery.	3	8	4	8
+balance	To balance a set of books.	This final payment, or credit, balances the account.	3	10	31	39
+assume	When will the new President assume office?	He assumed to himself the right to fill all positions in the town.	28	34	3	10
+truncate	Truncate a series.	Truncate a word.	0	8	0	8
+walk	I'll walk you to your car.	I walk the dog every morning.	5	9	2	6
+grace	Their youngest son said grace.	It has become less common to say grace before having dinner.	24	29	33	38
+bend	Copper rods bend easily.	The road bends to the right.	12	16	9	14
+rift	My marriage is in trouble, the fight created a rift between us and we can't reconnect.	The Grand Canyon is a rift in the Earth's surface, but is smaller than some of the undersea ones.	47	51	22	26
+shrink	Hot water will shrink the sweater.	Can you shrink this image?	15	21	8	14
+prime	I need to prime these handrails before we can apply the finish coat.	Prime a cannon.	10	15	0	5
+virus	The virus of jealousy is latent in everyone.	He caught a virus and had to stay home from school.	4	9	12	17
+explode	They sought to explode the myth.	The enemy exploded the bridge.	15	22	10	18
+name	Name your accomplices!	He named his demands.	0	4	3	8
+chiromance	She refused to chiromance my fate.	The Gypsies chiromanced.	15	25	12	23
+security	The watch dog gave her a feeling of security.	Bankers are reluctant to lend without good security.	36	44	43	51
+rag	Rag that old tune.	Rag ore.	0	3	0	3
+fire	Don't fire until you see the whites of their eyes.	The gun fired.	6	10	8	13
+organization	This painting shows little organization at first glance, but little by little the structure becomes clear.	His organization of the work force was very efficient.	27	39	4	16
+cross	Cross a horse and a donkey.	The trains crossed.	0	5	11	18
+face	An angry face.	When he returned to work he met many new faces.	9	13	41	46
+man	He awaited word from his man in Havana.	He taught me to set up the men on the chess board.	25	28	27	30
+clap	Clap two boards together.	The wings of the birds clapped loudly.	0	4	23	30
+comparison	They made a comparison of noise levels.	To bring a thing into comparison with another.	12	22	22	32
+respect	Syngman Rhee kept imprisoned the Dowager Queen Yun Empress Sunjeong of the Korean Empire for fear of the respect the people held for her.	He is an intellectual giant, and I have great respect for him.	105	112	46	53
+extract	To extract an essential oil from a plant.	I extracted a promise from the Dean for two new positions.	3	10	2	11
+minute	He ran a 4 minute mile.	You have twenty minutes to complete the test.	11	17	16	23
+preferment	Preferment of charges.	The preferment went to the younger candidate.	0	10	4	14
+consolidate	Consolidate one's hold on first place.	Consolidate one's gains.	0	11	0	11
+navel	The Incas believed that Cuzco was the navel of the universe.	Within the navel of this hideous wood, / Immured in cypress shades, a sorcerer dwells. -- Milton.	38	43	11	16
+creation	From its creation the plan was doomed to failure.	The restructure resulted in the creation of a number of shared services.	9	17	32	40
+erupt	Erupt in anger.	Unrest erupted in the country.	0	5	7	14
+embarrassment	An embarrassment of riches.	The outcome of the vote was an embarrassment for the liberals.	3	16	31	44
+crutch	He uses drugs as a psychological crutch.	He walked on crutches for a month until the cast was removed from his leg.	33	39	13	21
+zero	The temperature outside is ten degrees below zero.	The electromagnetic field does not drop all of the way to zero before a reversal.	45	49	58	62
+unlock	Unlock the door.	I unlocked the door and walked in.	0	6	2	10
+press	The press of business matters.	Put the ironing in the linen press.	4	9	29	34
+presidency	After many years as a party leader, she finally ascended to the presidency.	Andrew Jackson expanded the power of the presidency beyond what was customary before his time.	64	74	41	51
+wanton	Wanton one's money away.	The young man wantoned away his inheritance.	0	6	14	22
+loosen	Loosen the tension on a rope.	Loosen the soil.	0	6	0	6
+deflate	Deflate a balloon.	The bad review of his work deflated his self-confidence.	0	7	27	35
+condition	I condition my hair after washing it.	He conditions old cars.	2	11	3	13
+shore	Shore and buttress an old building.	The river was shored by trees.	0	5	14	20
+whiff	Whiff a pipe.	The gust of air whiffed away the clouds.	0	5	16	23
+cheat	Six years of a happy relationship, and then she had the nerve to cheat on me with a barman!	My husband cheated on me with his secretary.	65	70	11	18
+enjoy	Enjoy your holidays!	The industry enjoyed a boom.	0	5	13	20
+naught	It was all for naught.	All my efforts led to naught.	15	21	22	28
+crush	Crush an aluminum can.	Ye shall not offer unto the Lord that which is bruised, crushed, broken or cut. -- Lev. xxii.	0	5	56	63
+void	Void a plea.	He voided the check and returned it.	0	4	3	9
+post	A soldier manned the entrance post.	In England they call mail 'the post'.	30	34	31	35
+bang	The party went with a bang.	Tiffany has long hair and bangs.	22	26	26	31
+congener	The American shopkeeper differs from his European congener.	Lard was also used, though its congener, butter, was more frequently employed.	50	58	31	39
+erase	Please erase the formula on the blackboard -- it is wrong!	Her painful memories seemingly erased completely.	7	12	31	37
+confidence	He took me into his confidence.	Confidence is always borrowed, never owned.	20	30	0	10
+curve	She scribbled a curve on the paper.	You should slow down when approaching a curve.	16	21	40	45
+pitch	Pitch a tent.	Pitch the tent over there.	0	5	0	5
+stampede	She and her husband would join in the general stampede. -- W. Black.	When he shouted 'fire' there was a stampede to the exits.	46	54	35	43
+generate	We can't generate enough power for the entire city.	The hydroelectric plant needs to generate more electricity.	9	17	33	41
+rake	Rake leaves.	The enemy machine guns raked the roadway.	0	4	23	28
+skip	Skip town.	He skipped a row in the text and so the sentence was incomprehensible.	0	4	3	10
+backup	A traffic backup on the main street.	He discovered a backup in the toilet.	10	16	16	22
+projection	A prime ingredient of public speaking is projection of the voice.	Our ukuleles have been designed to have superior sound and projection.	41	51	59	69
+logic	Economic logic requires it.	By the logic of war.	9	14	7	12
+give	Give a divorce.	Give one's talents to a good cause.	0	4	0	4
+slot	He followed the deer's slot over the soft turf to the edge of the trees.	The TV program has a new time slot.	23	27	30	34
+model	Model an airplane.	Model the latest fashion.	0	5	0	5
+theme	The theme is announced in the first measures.	It was the usual 'boy gets girl' theme.	4	9	33	38
+twist	Twist one's head.	Twist the strips of dough.	0	5	0	5
+substitute	They tend to substitute for more mundane things.	I had no shallots so I substituted onion.	13	23	23	34
+do	Do research.	Do nothing.	0	2	0	2
+witness	She can bear witness, since she was there at the time.	As a witness to the event, I can tell you that he really said that.	13	20	5	12
+flex	Flex your wrists.	Flex a muscle.	0	4	0	4
+relax	Don't relax your efforts now.	The rules relaxed after the new director arrived.	6	11	10	17
+concentrate	Population tends to concentrate in cities.	These groups concentrate in the inner cities.	20	31	13	24
+scoop	He got a scoop on the bribery of city officials.	He used a scoop to serve the ice cream.	9	14	10	15
+groom	Groom the dogs.	Sheila groomed the horse.	0	5	7	14
+face	Shut your face!	He's always stuffing his face with chips.	10	14	25	29
+hack	I can't hack it anymore.	He hacked his way through the forest.	8	12	3	9
+restraint	He was a model of polite restraint.	The unlawful restraint of trade.	25	34	13	22
+categorize	Children learn early on to categorize.	First, categorize incoming messages according to the needed actions.	27	37	7	17
+reshuffle	So as to prevent cheating, he was asked to reshuffle the cards.	The new Prime Minister reshuffled his cabinet.	43	52	23	33
+knead	Knead dough.	I kneaded the dough into a loaf.	0	5	2	9
+ticker	I checked the prices on the ticker one last time before placing the trade.	To my surprise, the ticker showed that the deal had already gone through.	28	34	20	26
+security	We support the armed services in the name of national security.	He held several valuable securities.	54	62	25	35
+value	The value of a crotchet is twice that of a quaver.	He has old-fashioned values.	4	9	21	27
+compass	This writer attempts more than his talents can compass.	We compassed the earth.	47	54	3	12
+nonproliferation	Nuclear disarmament and nonproliferation are closely related goals.	They protested that the nonproliferation treaty was just a plot to maintain the hegemony of those who already had nuclear weapons.	24	40	24	40
+network	A railroad network.	To get a job in today's economy, it is important to have a strong network.	11	18	66	73
+program	Working mothers rely on the day care program.	You can't tell the players without a program.	37	44	37	44
+value	Value the jewelry and art work in the estate.	The dealer valued the book.	0	5	11	17
+slick	Careful in turn three -- there's an oil slick on the road.	The oil slick has now spread to cover the entire bay, critically endangering the sea life.	40	45	8	13
+pause	We pause for station identification.	When telling the scary story, he paused for effect.	3	8	33	39
+treat	Treat the water so it can be drunk.	Treat him with caution, please.	0	5	0	5
+air	If you've time to spare go by air.	Air travel involves too much waiting in airports.	30	33	0	3
+cap	We should put a cap on the salaries, to keep them under control.	They established a cap for prices.	16	19	19	22
+header	"Your header is too long; ""Local Cannibals"" will suffice."	This wall has four header courses.	5	11	19	25
+pluck	To pluck at somebody's sleeve.	He plucked the strings of his mandolin.	3	8	3	10
+stress	Stress is a vasoconstrictor.	He put the stress on the wrong syllable.	0	6	11	17
+unclothe	Unclothe your heart of envy.	She unclothed her innermost feelings.	0	8	4	13
+cure	Cure meats.	Cure hay.	0	4	0	4
+protection	They had no protection from the fallout.	The witnesses demanded police protection.	12	22	30	40
+mound	They have a southpaw on the mound.	They built small mounds to hide behind.	28	33	17	23
+redefinition	Words like 'conservative' require periodic redefinition.	She provided a redefinition of his duties.	43	55	15	27
+march	It was a long march.	The march went up Fifth Avenue.	14	19	4	9
+service	The service happened yesterday.	He accepted service of the subpoena.	4	11	12	19
+pastime	Sailing is her favorite pastime.	His main pastime is gambling.	24	31	9	16
+agree	I can't agree with you!	They agreed about what should be done.	8	13	5	11
+rawness	Their poor behavior was due to the rawness of the troops.	After taking a cold, rawness of the larynx and trachea come on.	35	42	21	28
+recourse	Have recourse to the courts.	His only recourse was the police.	5	13	9	17
+truncation	It is an obvious truncation of the verse.	They were sentenced to a truncation of their limbs.	17	27	25	35
+trouble	What is the trouble?	The troubles in Northern Ireland.	12	19	4	12
+sneak	Sneak a look.	Sneak a cigarette.	0	5	0	5
+refer	Refer a patient to a specialist.	This plant can be referred to a known species.	0	5	18	26
+squeeze	A gentle squeeze on the arm.	Increased expenses put a squeeze on profits.	9	16	25	32
+evoke	Evoke sympathy.	This remark evoked sadness.	0	5	12	18
+step	He paused on the bottom step.	The police took steps to reduce crime.	24	28	16	21
+amount	The amount he had in cash was insufficient.	The dogs need different amounts of food.	4	10	24	31
+party	The contract requires that the party of the first part pay the fee.	I'm throwing a huge party for my 21st birthday.	31	36	20	25
+region	Here we enter the region of opinion.	The equatorial regions.	18	24	15	22
+fall	When that became known the price of their stock went into free fall.	In the fall of 1973.	63	67	7	11
+arrange	Arrange my schedule.	Arrange the books on the shelves in chronological order.	0	7	0	7
+bang	When he struck it with a hammer, there was a loud bang.	My bangs keep getting in my eyes when I swim.	50	54	3	8
+music	He fell asleep to the music of the wind chimes.	You have to face the music.	22	27	21	26
+knot	The bird had a knot of feathers forming a crest.	Their muscles stood out in knots.	15	19	27	32
+disaster	The earthquake was a disaster.	His policies were a disaster.	21	29	20	28
+grace	The Virgin lived in a state of grace.	It was debated whether saving grace could be obtained outside the membership of the church.	31	36	30	35
+wrench	Wrench a window off its hinges.	Wrench one's ankle.	0	6	0	6
+handcart	He used a handcart to carry the rocks away.	Vendors were selling sunglasses, bagged snacks, and sundry other items from handcarts in the square.	10	18	76	85
+derivative	The derivative of f: f(x) = x^2 is f': f'(x) = 2x.	'electricity' is a derivative of 'electric'.	4	14	19	29
+sound	Sound the bell.	Sound a certain note.	0	5	0	5
+land	The land had never been plowed.	Good or bad land for growing potatoes.	4	8	12	16
+amass	To amass a treasure or a fortune.	She is amassing a lot of data for her thesis.	3	8	7	15
+circuit	A ten-day coach circuit of the island.	We took a quick circuit of the park.	16	23	16	23
+lodge	Lodge a bullet in the table.	We are lodging three foreign students this semester.	0	5	7	14
+communication	The node had established communication with the network, but had as yet sent no data.	A secret passageway provided communication between the two rooms.	25	38	29	42
+half	Half a loaf.	A century and one half.	0	4	18	22
+execute	To execute a turn in ballet.	The President executed the treaty.	3	10	14	22
+edge	His voice had an edge to it.	He rounded the edges of the box.	17	21	15	20
+trail	You'll get your coat all muddy if you trail it around like that.	The bride's veiled trailed along the ground.	38	43	19	26
+flee	The prisoner tried to flee, but was caught by the guards.	He threw down his gun and fled.	22	26	26	30
+man	We can not man all the desks.	Students were manning the booths.	11	14	14	21
+captain	A captain of industry.	"John Henry said to the captain, ""A man ain't nothing but a man.""."	2	9	23	30
+symbol	The lamb is the symbol of meekness or patience.	The lion is the symbol of courage.	16	22	16	22
+enclosure	He faced punishment for creating the fenced enclosure in a public park.	The winning horse was first into the unsaddling enclosure.	44	53	48	57
+definition	The definition of a telescope.	Exercise had given his muscles superior definition.	4	14	40	50
+plant	The police used a plant to trick the thieves.	He claimed that the evidence against him was a plant.	18	23	47	52
+drive	He sliced his drive out of bounds.	His drive and energy exhausted his co-workers.	14	19	4	9
+fortune	It was as if fortune guided his hand.	Whatever my fortune may be.	13	20	12	19
+edit	Edit film.	The same family has been editing the influential newspaper for almost 100 years.	0	4	25	32
+crumb	Crumb the table.	Crumb a cutlet.	0	5	0	5
+deceleration	The rocket is now in deceleration.	He initiated deceleration by braking.	21	33	13	25
+increase	They proposed an increase of 15 percent in the fare.	The increase in unemployment.	17	25	4	12
+relax	Let's all relax after a hard day's work.	He relaxed in the hot tub.	10	15	3	10
+adhesion	The adhesion of Seville was decisive.	A heated hydraulic press was required for adhesion.	4	12	42	50
+wind	When there is no wind, row.	He put the key in the old clock and gave it a good wind.	17	21	51	55
+estimation	In my estimation the boy is innocent.	They had a high estimation of his ability.	6	16	16	26
+flux	That high a neutron flux would be lethal in seconds.	The newness and flux of the computer industry.	20	24	16	20
+adhere	Will this wallpaper adhere to the wall?	The residents of this village adhered to Catholicism.	20	26	30	37
+richness	They studied forerunners of richness or poverty.	The cut of her clothes and the richness of the fabric were distinctive.	28	36	31	39
+heating	They have radiant heating.	The heating system wasn't working.	18	25	4	11
+whang	Whang away at the school reform plan.	Whang the ball.	0	5	0	5
+capacity	The capacity of a hard disk drive is usually expressed in megabytes.	The plant is working at 80 per cent capacity.	4	12	36	44
+runoff	The runoff of nitrates is poisoning the lake.	When there is very heavy rainfall on California hillsides over a prolonged period, there is almost always ensuing surface runoff.	4	10	122	128
+corrupt	Corrupt the morals.	Socrates was accused of corrupting young men.	0	7	24	34
+concord	Both philosophers concord on this point.	Their ideas concorded.	18	25	12	21
+resemble	The twins resemble each other.	This paper resembles my own work.	10	18	11	20
+fill	There was not enough fill for the trench.	The mixer returned to the plant for another fill.	21	25	44	48
+pride	He had pride of ownership in his department.	He took pride in his work.	7	12	8	13
+chuck	This food's gone off-you'd better chuck it.	Chuck these old notes.	34	39	0	5
+coolant	He added more coolant to the car's radiator.	The atomic reactor used a gas coolant.	14	21	30	37
+sex	She didn't want to know the sex of the foetus.	Slime molds are sometimes erroneously said to have thirteen sexes.	28	31	60	65
+train	Train of mourners.	Express trains don't stop at Princeton Junction.	0	5	8	14
+aim	It was created with the conscious aim of answering immediate needs.	He took aim and fired.	34	37	8	11
+hair	He combed his hair.	In the western world, women usually have long hair while men usually have short hair.	14	18	46	50
+toehold	American diplomacy provided a toehold on which to proceed toward peace talks.	His father gave him a toehold in the oil business.	30	37	22	29
+pig	After the ill-advised trade, the investor was stuck with worthless options for 10,000 tons of iron pig.	The conveyor carried the pigs from the smelter to the freight cars.	99	102	25	29
+waste	Waste heat.	Waste a joke on an unappreciative audience.	0	5	0	5
+turnout	A large turnout for the meeting.	The turnout for the rally.	8	15	4	11
+inhale	Inhale the fresh mountain air.	Inhale deeply.	0	6	0	6
+stir	Stir the soup.	Stir the soil.	0	4	0	4
+emphasis	His emphasis on civil rights.	He used a yellow highlighter to indicate where to give emphasis in his speech.	4	12	55	63
+drain	Please drain the sink. It's full of dirty water.	We drained the oil tank.	7	12	3	10
+estimate	I estimate this chicken to weigh three pounds.	He estimated what would be likely.	2	10	3	12
+shtik	Give him a shtik cake.	His shtik made us laugh.	11	16	4	9
+goal	The winning goal came with less than a minute left to play.	She failed in her goal to become captain of the team.	12	16	18	22
+deflate	Deflate the air mattress.	The balloons deflated.	0	7	13	21
+sister	My sister is always driving me crazy.	My sister married a musician.	3	9	3	9
+seating	There is plenty of comfortable seating.	There is seating for 40 students in this classroom.	31	38	9	16
+sound	The sound of rain on the roof.	The beautiful sound of music.	4	9	14	19
+dress	He came to the party in formal dress.	Fastidious about his dress.	31	36	21	26
+array	An array of troops in battle order.	Drawn up in battle array.	3	8	19	24
+probe	Probe an anthill.	If you probe further, you may discover different reasons.	0	5	7	12
+sell	I'll sell you all three for a hundred dollars.	He sold his house in January.	5	9	3	7
+change	He attributed the change to their marriage.	It is a refreshing change to meet a woman mechanic.	18	24	19	25
+apply	The same laws apply to you!	He applied this racial slur to me!	14	19	3	10
+model	Model a head with clay.	The sculptor modelled the clay into the form of a dolphin.	0	5	13	21
+expose	Expose the blanket to sunshine.	Expose your students to art.	0	6	0	6
+pitcher	Our pitcher has a sore arm.	He has played every position except pitcher.	4	11	36	43
+sawmill	He brought his portable sawmill and turned the old beams into interesting flooring.	The sawmill sells lumber to carpenters and sawdust to gardeners.	24	31	4	11
+subject	He did not want to subject himself to the judgments of his superiors.	The sergeant subjected the new recruits to many drills.	19	26	13	22
+gravity	The more remote the body the less the gravity.	Gravity is weaker than electromagnetism, but affects all matter and energy.	38	45	0	7
+lover	A lover of fine wines.	A lover of his country.	2	7	2	7
+contact	They kept in daily contact.	They claimed that they had been in contact with extraterrestrial beings.	19	26	35	42
+producer	Maine is a leading producer of potatoes.	This microorganism is a producer of disease.	19	27	24	32
+remember	After the shelling, many people lost the ability to remember.	Some remember better than others.	52	60	5	13
+repression	His goal was the repression of insolence.	The long repression of Christian sects.	17	27	9	19
+outdoors	He wanted to get outdoors a little.	She loves the outdoors.	17	25	14	22
+cut	He played the first cut on the cd.	He insisted that we give him the last cut before every deal.	20	23	38	41
+grip	He was in the grip of a powerful emotion.	A good grip on French history.	14	18	7	11
+demonstration	The lecturer shot off a pistol as a demonstration of the startle response.	The lecture was accompanied by dramatic demonstrations.	36	49	40	54
+fundus	The fundus of the stomach.	The uterine fundus.	4	10	12	18
+carry	He can not carry a tune.	She carried herself well.	11	16	4	11
+ruin	You have brought ruin on this entire family.	They explored several Roman ruins.	17	21	28	33
+gesture	The middle-finger gesture is really a nonverbal swear.	This Web browser can be controlled with mouse gestures.	18	25	46	54
+disentangle	Can you disentangle the cord?	How can I disentangle myself from her personal affairs?	8	19	10	21
+smoke	Do you smoke?	He's smoking his pipe.	7	12	5	12
+smokescreen	All that talk is just a smokescreen to disguise the fact that he has nothing to say.	Requesting new powers of surveillance is just a smokescreen to hide their failures.	24	35	48	59
+puff	Puff a cigar.	He huffed and puffed as he made his way up the mountain.	0	4	14	20
+bring	Bring comments.	Bring water to the boiling point.	0	5	0	5
+nose	She has a cold in the nose.	Keep your nose out of it.	22	26	10	14
+balance	Balance the two weights.	She has to balance work and her domestic duties.	0	7	11	18
+concoction	He volunteered to taste her latest concoction.	It suddenly spewed out a thick green concoction.	35	45	37	47
+chip	This cup has a chip in it.	Potato chip, tortilla chip.	15	19	7	11
+confront	You must confront your opponent.	John confronted it with emergency measures.	9	17	5	15
+section	No section of the nation is more ardent than the South.	He always turns first to the business section.	3	10	38	45
+wave	A wave of emotion swept over him.	A heat wave.	2	6	7	11
+feeling	I had a feeling that she was lying.	I disliked him and the feeling was mutual.	8	15	23	30
+fix	Fix your eyes on this spot.	Fix a race.	0	3	0	3
+joke	I regarded his campaign for mayor as a joke.	He told a very funny joke.	39	43	21	25
+element	Water is the element of fishes.	To be in one's own element.	13	20	19	26
+stage	All the world's a stage -- Shakespeare.	The stage pulled into town carrying the payroll for the mill and three ladies.	18	23	4	9
+compel	We compel all students to fill out this form.	Logic compels the wise, while fools feel compelled by emotions.	3	9	6	13
+stimulate	Stimulate my appetite.	The book stimulated her imagination.	0	9	9	19
+possession	The scoreboard shows a little football symbol next to the name of the team that has possession.	Back then, people with psychiatric disorders were sometimes thought to be victims of demonic possession.	84	94	93	103
+subscription	I have a monthly subscription to The Daily Telegraph newspaper.	My library subscription is about to expire.	17	29	11	23
+assume	Mr. Jones will assume the position of a lifeguard until a proper replacement is found.	She assumed strange manners.	15	21	4	11
+score	Score the clay before firing it.	He scored a 200.	0	5	3	9
+personality	The president has a unique personality.	She is a Hollywood personality.	27	38	19	30
+steam	Steam and clean the upholstered sofa.	It really steams me to see her treat him like that.	0	5	10	16
+contact	The wire must not contact the metal cover.	The surfaces contact at this point.	18	25	13	20
+walk	The patient can not walk yet.	Walk with God.	20	24	0	4
+match	Their interests didn't match, so it took a long time to agree what to do together.	These two copies are supposed to be identical, but they don't match.	23	28	62	67
+function	The function of a teacher.	The function of an auger is to bore holes.	4	12	4	12
+victory	Clinched a victory.	The general always gets credit for his army's victory.	11	18	46	53
+presence	I'm convinced that there was a presence in that building that I can't explain, which led to my heroic actions.	She blushed in his presence.	31	39	19	27
+blood	The ancients believed that blood was the seat of the emotions.	Blood carries oxygen and nutrients to the tissues and carries away waste products.	27	32	0	5
+say	What does this painting say?	Did his face say anything about how he felt?	24	27	13	16
+rusticate	Rusticate the house in the country.	He was rusticated for his bad behavior.	0	9	7	17
+truth	He told the truth.	They debated the truth of the proposition.	12	17	17	22
+separatism	Demands for some form of separatism on grounds of religion have been perceived as a threat to mainstream education.	Separatism is a serious problem in Quebec.	25	35	0	10
+peace	The roommates lived in peace together.	Peace came on November 11th.	23	28	0	5
+look	He gave me a dirty look.	If looks could kill ...	19	23	3	8
+sell	The French try to sell us their image as great lovers.	The new idea sold well in certain circles.	18	22	13	17
+home	A home for outcasts.	A home for the elderly.	2	6	2	6
+vengeance	He swore vengeance on the man who betrayed him.	Vengeance is mine.	9	18	0	9
+drag	Too many laws are a drag on the use of new land.	Taxation is a drag on the economy.	20	24	14	18
+effect	The magnetic effect was greater when the rod was lengthwise.	The effect of the hurricane was a devastated landscape.	13	19	4	10
+overcome	You must overcome all difficulties.	He overcame his infirmity.	9	17	3	11
+attack	The visiting team started to attack.	The cancer cells are attacking his liver.	29	35	21	30
+cry	A cry of rage.	Animal cries filled the night.	2	5	7	12
+aggravate	To aggravate my woes. -- Alexander Pope.	The defense made by the prisoner's counsel did rather aggravate than extenuate his crime. -- Addison.	3	12	54	63
+remainder	17 leaves a remainder of 2 when divided by 3.	11 divided by 2 is 5 remainder 1.	12	21	21	30
+day	Every dog has his day.	He deserves his day in court.	18	21	16	19
+justify	Justify the margins.	The end justifies the means.	0	7	8	17
+shipment	We're expecting another shipment of oranges tomorrow.	Shipment of hazardous waste on this route is strictly prohibited.	24	32	0	8
+deliverable	We packaged the deliverable, a program called FLOOD.EXE, in an installer file.	Under this contract the deliverables include both software and hardware.	16	27	24	36
+play	Play a hooked fish.	She played nervously with her wedding ring.	0	4	4	10
+negociate	Negociate securities.	The parties negociated all night.	0	9	12	22
+bootleg	Bootleg tapes of the diva's singing.	They were bootlegging whiskey.	0	7	10	21
+heat	I'll heat up the water.	The massage heated her up.	5	9	12	18
+speculation	He knew the stock was a speculation when he bought it.	Speculations about the outcome of the election.	24	35	0	12
+guy	A nice guy.	The guy's only doing it for some doll.	7	10	4	7
+sacrifice	The general had to sacrifice several soldiers to save the regiment.	The animals were sacrificed after the experiment.	19	28	17	27
+head	Head the fish.	The salmon are first headed and then scaled.	0	4	21	27
+takeaway	In England they call takeout food 'takeaway'.	If you're hungry, there's a takeaway just around the corner.	35	43	28	36
+attest	When will the appraiser attest the date of the painting?	I attest this signature.	24	30	2	8
+view	View a problem.	He viewed the painting and praised the artist for his masterpiece.	0	4	3	9
+light	They saw the light of the beacon.	There was a light at every corner.	13	18	12	17
+dean	He is the dean of foreign correspondents.	Dean of the diplomatic corps-a country's most senior ambassador.	10	14	0	4
+fertility	In most industrialized countries the fertility rate has dropped well below replacement rate.	In America the fertility rate of recent immigrants tends to be higher than that of native population.	37	46	15	24
+wash	Dishwashers wash dishes much more efficiently than most humans.	Wash the towels, please!	12	16	0	4
+crack	The crack of the bat hitting the ball.	The crack of a whip.	4	9	4	9
+fire	The gun has only been fired two times.	The boss fired his secretary today.	22	27	9	14
+inspire	The lung cancer patient can not inspire air very well.	The patient has trouble inspiring.	32	39	24	33
+community	They shared a community of possessions.	A community is infinitely more brutalised by the habitual employment of punishment than it is by the occasional occurrence of crime (Oscar Wilde).	14	23	2	11
+crumb	He gave only a crumb of information about his plans.	There were few crumbs of comfort in the report.	15	20	15	21
+wall	He ducked behind the garden wall and waited.	The wall followed the road.	28	32	4	8
+consolidation	The defendants asked for a consolidation of the actions against them.	A consolidation of two corporations.	27	40	2	15
+snag	Snag a bargain.	I snagged my stocking.	0	4	2	9
+spring	The spring was broken.	The spring of a bow.	4	10	4	10
+darkness	He moved off into the darkness.	His lectures dispelled the darkness.	22	30	27	35
+trade	As they say in the trade.	The skilled trades were the first to organize modern labor unions.	19	24	12	18
+back	To back the oars.	The car backed up and hit the tree.	3	7	8	14
+gentrify	Gentrify the old center of town.	Gentrify a row of old houses.	0	8	0	8
+entertain	Entertain interesting notions.	He entertained the notion of moving to South America.	0	9	3	14
+avert	Avert a strike.	How can the danger be averted?	0	5	22	29
+tantrum	She threw a tantrum.	Many parents become embarrassed by their children throwing tantrums in public places.	12	19	59	67
+provide	We aim to provide the local community with more green spaces.	The hostess provided lunch for all the guests.	10	17	12	20
+hi	"I just dropped by to say ""hi""."	Hi, how are you?	26	28	0	2
+river	The river was navigable for 50 miles.	Occasionally rivers overflow their banks and cause floods.	4	9	13	19
+void	Nobody has crossed the void since one man died trying three hundred years ago; it's high time we had another go.	The huge desert voids.	23	27	16	21
+luck	Sometimes it takes a bit of luck to get success.	The raffle is just a matter of luck.	28	32	31	35
+walk	He had a funny walk.	The pitcher now has two walks in this inning alone.	15	19	24	29
+master	The methods can master the problems.	Her pain completely mastered her.	16	22	20	28
+approach	Would counsel please approach the bench? asked the judge.	He approached the age of manhood.	21	29	3	13
+patient	The subject of a passive verb is usually a patient.	The number of emergency patients has grown rapidly.	43	50	24	32
+prize	We prize his creativity.	I prize these old photographs.	3	8	2	7
+feedstock	The filtered extract of the mash is the feedstock for the fermenter.	Bio-materials may be substituted for petrochemical feedstocks as petroleum prices rise.	40	49	51	61
+lighten	Lighten the burden of caring for her elderly parents.	She lightened the load on the tired donkey.	0	7	4	13
+corner	Standing on the corner watching all the girls go by.	The liquor store on the corner also sold lottery tickets.	16	22	24	30
+put	We put the time of arrival at 8 P.M.	Put your things here.	3	6	0	3
+hold	Hold in place.	She always held herself as a lady.	0	4	11	15
+yoke	Under the yoke of a tyrant.	They threw off the yoke of domination.	10	14	19	23
+wonder	I wonder whether this was the right thing to do.	She wondered whether it would snow tonight.	2	8	4	12
+presidency	Ernest was a historian specializing in the presidency of Herbert Hoover.	In France, a presidency lasts for five years.	43	53	13	23
+sustain	The money will sustain our good cause.	She alone sustained her family.	15	22	10	19
+nature	Matters of a personal nature.	The true nature of jealousy.	22	28	9	15
+legitimation	He has filial rights because he obtained letters of legitimation from the king.	His parents' subsequent marriage resulted in his legitimation.	52	64	49	61
+cast	The cast would need a great deal of machining to become a recognizable finished part.	The cast was praised for a fine performance.	4	8	4	8
+tighten	Please tighten that screw a quarter-turn.	Tighten the wire.	7	14	0	7
+score	Score the SAT essays.	She scored high on the SAT.	0	5	4	10
+digress	Don't digress when you give a lecture.	She always digresses when telling a story.	6	13	11	20
+wipe	Wipe the blackboard.	Brian wiped at the counter.	0	4	6	11
+conjecture	The physicist used his conjecture about subatomic particles to design an experiment.	I explained it, but it is pure conjecture whether he understood, or not.	23	33	31	41
+dignity	It was beneath his dignity to cheat.	Showed his true dignity when under pressure.	19	26	16	23
+account	Passing grades account for half of the grades given in this exam.	I can't account for the missing money.	15	22	8	15
+judge	I judge a man's character by the cut of his suit.	I can not judge some works of modern art.	2	7	10	15
+origin	Jupiter was the origin of the radiation.	He comes from good origins.	16	22	19	26
+law	The law came looking for him.	The laws of thermodynamics.	4	7	4	8
+resolve	I'll have to resolve the equation with the new values.	Can this image be resolved?	13	20	18	26
+fend	The youngsters had to fend for themselves after their parents died.	The mountain climbers had to fend against the ice and snow.	22	26	29	33
+record	Chicago set the homicide record.	Coffee production last year broke all previous records.	25	31	47	54
+instinct	Many animals fear fire by instinct.	Altruistic instincts in social animals.	26	34	11	20
+step	The architect wants to step the terrace.	She is always stepping on others to get ahead.	23	27	14	22
+elaborate	Elaborate a plan.	Could you elaborate on the plot for your novel for me?	0	9	10	19
+work	Work the body onto the flatbed truck.	He is working his servants hard.	0	4	6	13
+function	It was a black-tie function.	A seemingly endless round of social functions.	19	27	36	45
+program	He proposed an elaborate program of public works.	The program lasted more than two hours.	25	32	4	11
+stone	Her face was as hard as stone.	Stone is abundant in New England and there are many quarries.	24	29	0	5
+draw	Draw water from a well.	She drew water from the barrel.	0	4	4	8
+excavate	Excavate gold.	Carnegie had a lake excavated for Princeton University's rowing team.	0	8	20	29
+answer	His answer to any problem was to get drunk.	Their answer was to sue me.	4	10	6	12
+passion	We share a passion for books.	He has a passion for cock fighting.	11	18	9	16
+purse	He and his wife shared a common purse.	He made the contribution out of his own purse.	32	37	40	45
+land	Maybe that's how it works in TV-land, bu not in the real world.	He made it the law of the land.	32	36	26	30
+evidence	His trembling was evidence of his fear.	There is no evidence that anyone was here earlier.	18	26	12	20
+take	The take must be repeated.	Act seven, scene three, take two.	4	8	24	28
+making	The making of measurements.	It was already in the making.	4	10	22	28
+tube	In Paris the subway system is called the 'metro' and in London it is called the 'tube' or the 'underground'.	No mate, I am taking the tube!	81	85	25	29
+bake	Idaho potatoes bake beautifully.	This oven bakes potatoes.	15	19	10	15
+resign	Resign a claim to the throne.	He resigned the crown to follow his heart.	0	6	3	11
+screen	A metal screen protected the observers.	They put screens in the windows for protection against insects.	8	14	9	16
+news	We watch the 7 o'clock news every night.	Did you listen to the news tonight?	23	27	22	26
+enterprise	A micro enterprise is defined as a business having 5 or fewer employees and a low seed capital.	A growing enterprise must have a bold leader.	8	18	10	20
+heartland	It was in the heartland of the French wine growing areas.	The home counties are the Conservative heartland.	14	23	39	48
+plus	He is a real plus to the team.	A water molecule is made up of two hydrogen atoms plus one of oxygen.	13	17	50	54
+drive	Drive a car or bus.	Drive a car.	0	5	0	5
+pop	Listen to the pop of a champagne cork.	Pop music, despite its commercial focus, includes many artistic gems.	14	17	0	3
+bit	A bit of paper.	A bit of rock caught him in the eye.	2	5	2	5
+kilter	In good kilter.	Out of kilter.	8	14	7	13
+running	He has responsibility for the running of two companies at the same time.	The running of the engine is smooth.	30	37	4	11
+rig	Rig a ship.	They rigged the bomb to the ignition.	0	3	5	11
+nature	They tried to preserve nature as they found it.	It is his nature to help others.	23	29	10	16
+rascal	That little rascal bit me!	If you have deer in the area, you may have to put a fence around your garden to keep the rascals out.	12	18	89	96
+lesson	The accident was a good lesson to me.	I hope this accident taught you a lesson!	24	30	34	40
+introduce	Introduce the new neighbors to the community.	A new word processor was introduced.	0	9	25	35
+manhood	He feared the speedy decline of all manhood.	A strapping youth poised on the brink of manhood.	36	43	41	48
+room	Room for improvement.	The rooms were very small but they had a nice view.	0	4	4	9
+theory	They killed him on the theory that dead men tell no tales.	The architect has a theory that more is less.	23	29	20	26
+center	Convention center.	They received messages from several centers.	11	17	36	43
+blow	Certain insects are said to blow.	He blew a lot of money on his new home theater.	28	32	3	7
+remove	Remove a case to another court.	He removed his children to the countryside.	0	6	3	10
+flight	Take flight.	Birds are capable of flight.	5	11	21	27
+blind	He spent hours reading to the blind.	They had just moved in and had not put up blinds yet.	30	35	42	48
+interest	They said nothing of great interest.	Primary colors can add interest to a room.	27	35	23	31
+square	Square the wood with a file.	He squared his shoulders.	0	6	3	10
+consist	What does love consist in?	The payment consists in food.	15	22	12	20
+oat	The main forms of oat are meal and bran.	The oat stalks made good straw.	18	21	4	7
+look	Don't look in the closet.	Look at my new car!	6	10	0	4
+obstruct	Obstruct the path.	The trees obstruct my view of the mountains.	0	8	10	18
+reorganization	The reorganization was prescribed by federal bankruptcy laws.	After the takeover there was a thorough reorganization.	4	18	40	54
+dereliction	The new soldier did not clean his cabin and was scolded for dereliction and disobedience.	What he did was a terrible dereliction of duty.	60	71	27	38
+bitch	She said her son thought Hillary was a bitch.	Ann gossiped about me and mocked my work; sometimes she can be a real bitch!	39	44	70	75
+quiet	The teacher did her best to quiet the children down.	When you quiet, we can start talking.	28	33	9	14
+eligibility	Eligibility for a loan.	Eligibility of a candidate for office.	0	11	0	11
+reason	The reason I robbed the bank was that I needed the money.	We are told that man is endowed with reason and capable of distinguishing good from evil.	4	10	37	43
+chairperson	She was the chairperson of the board and she presided over the meeting.	Address your remarks to the chairperson.	12	23	28	39
+chokehold	He grabbed the woman in a chokehold, demanded her cash and jewelry, and then fled.	The president applied a chokehold to labor disputes that inconvenienced the public.	26	35	24	33
+twin	Twin crystals.	The polished surface twinned his face and chest in reverse.	0	4	21	28
+scopolamine	Transdermal scopolamine is used to treat motion sickness.	Someone sedated with scopolamine has difficulty lying.	12	23	21	32
+tiger	He's a tiger on the tennis court.	It aroused the tiger in me.	7	12	15	20
+rerun	We have to rerun the subjects -- they misunderstood the instructions.	Bush wants to rerun in 1996.	11	16	14	19
+performance	We congratulated him on his performance at the rehearsal.	An inspired performance of Mozart's C minor concerto.	28	39	12	23
+internationalize	Internationalize trade of certain drugs.	We internationalized the committee.	0	16	3	20
+religion	Islam is a major religion in parts of Asia and Africa.	Eckankar is a new religion but Zoroastrianism is an old religion.	17	25	18	26
+clear	Clear a debt.	Clear your desk.	0	5	0	5
+extension	Files with the .txt extension usually contain text.	Most applications provide extensions for the files they create.	20	29	26	36
+violence	The storm's violence.	The violence of the storm, fortunately, was more awesome than destructive.	12	20	4	12
+elaborate	What do you mean you didn't come home last night? Would you care to elaborate?	She elaborated on the main ideas in her dissertation.	68	77	4	14
+trip	He took a trip to the shopping center.	We made a trip to the beach.	10	14	10	14
+claimant	He was a claimant to the throne.	Claimants of unemployment compensation.	9	17	0	9
+mistake	He made a bad mistake.	Make no mistake about his intentions.	14	21	8	15
+grace	A beautiful figure which she used in subtle movements of unparalleled grace.	The conception of grace developed alongside the conception of sin.	70	75	18	23
+leap	Leap into fame.	The child leapt across the puddle.	0	4	10	15
+lot	They were an angry lot.	A lot of money.	19	22	2	5
+patent	Should I patent this invention?	I patented my idea.	9	15	2	10
+crisscross	Crisscross the sheet of paper.	Wrinkles crisscrossed her face.	0	10	9	21
+precedence	Its precedence as the world's leading manufacturer of pharmaceuticals.	Family takes precedence over work, in an emergency.	4	14	13	23
+retain	I retain this drug for a long time.	The dam retains the water.	2	8	8	15
+enrich	Hobbies enrich lives.	The oil boom enriched a lot of local people.	8	14	13	21
+setup	It takes time to learn the setup around here.	The classroom setup was simple and efficient.	27	32	14	19
+prefer	We prefer sleeping outside.	Some people prefer camping to staying in hotels.	3	9	12	18
+roll	Roll a cigarette.	They rolled their eyes at his words.	0	4	5	11
+cookery	People are needed who have experience in cookery.	Henry was not very good at cookery and most of his meals ended up burned.	41	48	27	34
+post	Two of the receivers ran post patterns.	He set a row of posts in the ground and strung barbwire between them.	25	29	16	21
+game	He is serving for the game.	The game lasted two hours.	22	26	4	8
+expression	They stared at the newcomer with a puzzled expression.	His manner of expression showed how much he cared.	43	53	14	24
+conflict	He noticed a conflict in the dates of the two meetings.	This form of conflict is essential to Mann's writing.	13	21	13	21
+step	It is but a step.	It's only a step to the drugstore.	12	16	12	16
+zone	The white zone is for loading and unloading only.	There is a no-smoking zone that extends 25 feet outside of each entrance.	10	14	22	26
+depth	The depth of the water.	Depth of a closet.	4	9	0	5
+round	Round the edges.	Round the bend.	0	5	0	5
+term	A healthy baby born at full term.	He learned many medical terms.	28	32	24	29
+mash	Mash the garlic.	To mash on a bicycle pedal.	0	4	3	7
+station	Married above her station.	The responsibilities of a man in his station.	18	25	37	44
+leakiness	The leakiness of the roof.	The leakiness of the boat made it dangerous to use.	4	13	4	13
+insufficiency	The troops went hungry because of the insufficiency of their supplies.	Pointed out the insufficiencies in my report.	38	51	16	31
+gimmick	It was a great sales gimmick.	A cheap promotions gimmick for greedy businessmen.	21	28	19	26
+act	You should act like an adult.	He's acting strangely -- I think there's something wrong with him.	11	14	5	11
+bake	Potatoes bake to a crisp in the oven.	Bake a cake.	9	13	0	4
+file	File for divorce.	File a complaint.	0	4	0	4
+eclat	The eclat of a great achievement.	They gave him more eclat than he really deserved.	4	9	19	24
+problem	What's the problem?	She and her husband are having problems.	11	18	31	39
+freshness	The freshness of the air revived him.	She loved the freshness of newly baked bread.	4	13	14	23
+fence	If we fence in that field, it will be a good pasture for a horse.	We fenced in our yard.	6	11	3	9
+washout	It was several days after the storm before they could repair the washout and open the road.	As an actor, he was a complete washout, so he went back to accounting.	65	72	31	38
+kindling	Go and collect some kindling.	The kindlings of love.	20	28	4	13
+reveal	The actress won't reveal how old she is.	He revealed the children found.	18	24	3	11
+path	The hurricane demolished houses in its path.	The path of a meteor, of a caravan, or of a storm.	39	43	4	8
+rent	Let's rent a car.	We rented our apartment to friends while we were abroad.	6	10	3	9
+hiccup	There was a loud hiccup from the back of the room and the class erupted in laughter.	He has the hiccups -- give him a glass of water.	17	23	11	18
+suit	The family brought suit against the landlord.	If you take my advice, you'll file suit against him immediately.	19	23	35	39
+grab	This story will grab you.	Grab power.	16	20	0	4
+issue	He died without issue.	The last issue of penicillin was over a month ago.	16	21	9	14
+marginalization	The marginalization of the underclass.	The marginalization of literature.	4	19	4	19
+climax	The deathbed scene is the climax of the play.	The climax of the artist's career.	26	32	4	10
+foundation	The foundation of a new scientific society.	There is little foundation for his objections.	4	14	16	26
+override	Health considerations override financial concerns.	The Congress promptly overrode the president's veto, passing the bill into law.	22	30	22	30
+miss	I miss you! Come home soon!	He misses his mother.	2	6	3	9
+react	The hydrogen and the oxygen react.	She reacts negatively to everything I say.	28	33	4	10
+comply	You must comply or else!	He complied with my instructions.	9	15	3	11
+approach	He lost the hole when his approach rolled over the green.	The approach of winter.	26	34	4	12
+devour	She intended to devour the book.	She devoured his novels.	16	22	4	12
+overstate	He was suggested not to overstate at the interview.	I think it is overstating matters to say that an hour online is spending all night on the computer.	24	33	14	25
+do	What makes her do this way?	Don't behave like a fool.	15	17	0	2
+come	Nothing good will come of this.	This kind of accident comes when you are careless.	18	22	22	27
+bar	He drowned his sorrows in whiskey at the bar.	The street was lined with all-night bars.	41	44	36	40
+push	Some details got lost in the push to get the project done.	The army made a push toward the sea.	29	33	16	20
+harvest	The Chinese are said to harvest organs from executed criminals.	Harvest the grapes.	24	31	0	7
+network	A network of canals.	Retirement meant dropping out of a whole network of people who had been part of my life.	2	9	41	48
+baste	Baste a roast.	Baste a hem.	0	5	0	5
+pillar	A pillar of smoke.	A thin pillar of smoke betrayed their campsite.	2	8	7	13
+have	I have a house and a car.	I've got a house in the country.	2	6	1	4
+blow	Blow a horse.	To blow a horse.	0	4	3	7
+cinema	The cinema is right across the street from the restaurant.	This story would be good cinema.	4	10	25	31
+spray	The bridesmaid carried a spray of lily-of-the-valley.	A spray of bullets.	25	30	2	7
+chance	We ran into each other by pure chance.	There is a 30% chance of rain tomorrow.	31	37	15	21
+manifestation	A manifestation of disease.	A manifestation of great emotion.	2	15	2	15
+steamroller	Steamroller the road.	The Senator steamrollered the bill to defeat.	0	11	12	25
+security	Military security has been stepped up since the recent uprising.	The head of security was a former policeman.	9	17	12	20
+draft	I have to revise the first draft of my term paper.	They served beer on draft.	27	32	20	25
+cast	Cast a warm light.	Cast a ballot.	0	4	0	4
+brand	There's a new brand of hero in the movies now.	Whenever Sally drinks her favorite beer, Coors' brand image floods her senses with scenes of being on a hot beach drinking something refreshing.	14	19	48	53
+rounding	Taxes are rounded off to the nearest dollar but the rounding error is surprisingly small.	The error in the calculation was attributable to rounding.	52	60	49	57
+poor	The urban poor need assistance.	The poor are always with us.	10	14	4	8
+expression	The expression of milk from her breast.	A sad expression.	4	14	6	16
+unemployed	The long-term unemployed need assistance.	The unemployed are a growing portion of the population.	14	24	4	14
+space	The first major milestone in space exploration was in 1957, when the USSR's Sputnik 1 orbited the Earth.	He said the space is the most important character in the alphabet.	29	34	12	17
+discipline	He insisted on discipline among the troops.	The offenders deserved the harsh discipline they received.	15	25	33	43
+event	He acted very wise after the event.	In that event, the first possibility is excluded.	29	34	8	13
+defang	Defang the poisonous snake.	The snake was defanged.	0	6	14	22
+grain	A grain of sugar.	Wheat is a grain that is grown in Kansas.	2	7	11	16
+keep	Keep boarders.	He is keeping three women in the guest cottage.	0	4	6	13
+leg	After six days, we're finally in the last leg of our cross-country trip.	Dan won't be able to come to the party, since he broke his leg last week and is now on crutches.	42	45	59	62
+acknowledge	In all thy ways acknowledge Him. -- Proverbs 3:6.	She acknowledged his complement with a smile.	16	27	4	16
+gutter	Gutter the buildings.	The cooling lava continued to gutter toward lower ground.	0	6	30	36
+see	The artist must first learn to see.	See whether it works.	31	34	0	3
+existence	The biggest tree in existence.	Laws in existence for centuries.	20	29	8	17
+nick	Nick horses.	I nicked myself while I was shaving.	0	4	2	8
+answer	There is no simple answer to corruption.	The answers were in the back of the book.	19	25	4	11
+bench	Injuries have shortened the bench.	She placed the workpiece on the bench, inspected it closely, and opened the cover.	28	33	32	37
+electricity	They built a car that runs on electricity.	The stage crackled with electricity whenever she was on it.	30	41	24	35
+delay	Don't delay your application to graduate school or else it won't be considered.	He delayed the watering.	6	11	3	10
+sew	To sew money into a bag.	Can the seamstress sew me a suit by next week?	3	6	19	22
+clean	Clean your fingernails before dinner.	Clean up before you see your grandparents.	0	5	0	5
+throw	Throw accusations at someone.	She threw the blanket around the child.	0	5	4	9
+dig	Dig a hole.	My seven-year-old son always digs a hole in the middle of his mashed potatoes and fills it with gravy before he starts to eat them.	0	3	29	33
+toke	The artist took a thoughtful toke off the joint, then passed it along.	The boys took a few tokes on a joint.	29	33	20	25
+squash	We all managed to squash into Mum's tiny car.	Somehow, she squashed all her books into her backpack, which was now too heavy to carry.	18	24	13	21
+identification	Identification of the gun was an important clue.	The thief's identification was followed quickly by his arrest.	0	14	12	26
+cradle	He was taught from the cradle never to cry.	The cradle of liberty.	23	29	4	10
+trim	Trim the christmas tree.	Trim a shop window.	0	4	0	4
+season	This trip will season even the hardiest traveller.	Season the chicken breast after roasting it.	15	21	0	6
+shape	He cut a square shape out of the cake.	The vet checked to see what kind of shape the animal was in.	16	21	36	41
+deify	These young men deify financial success.	The people deified their King.	16	21	11	18
+die	My secret will die with me!	Their anger died.	15	18	12	16
+number	"The word ""fifteen"", the Arabic numeral ""15"", and the Roman numeral ""XV"" are all numerals representing the number fifteen."	Zero, one, -1, 2.5, and pi are all numbers.	106	112	35	42
+form	Social groups form everywhere.	They formed a company.	14	18	5	11
+card	They have to card anybody who looks 21 or younger.	I heard you don't get carded at the other liquor store.	13	17	22	28
+coarsen	Coarsen the surface.	Because the wool is poor quality it will coarsen the fabric.	0	7	41	48
+mellow	These apples need to mellow a bit more.	The sun mellowed the fruit.	21	27	8	16
+plan	Plan the new wing of the museum.	The rebels had planned turmoil and confusion.	0	4	15	22
+convert	Could you convert my dollars into pounds?	Convert centimeters into inches.	10	17	0	7
+ingenuity	Poverty is the mother of ingenuity.	Ingenuity is one of the characteristics of a beaver.	25	34	0	9
+freeze	Don't go outside wearing just a t-shirt; you'll freeze!	It's freezing in here!	48	54	5	13
+sketch	Sketch the building.	Sketch the outline of the book.	0	6	0	6
+scare	A bomb scare led them to evacuate the building.	A war scare.	7	12	6	11
+push	Give the door a hard push if it sticks.	Let's give one last push on our advertising campaign.	21	25	20	24
+glorify	Glorify one's spouse's cooking.	You are glorifying a rather mediocre building.	0	7	8	18
+influence	Her wishes had a great influence on his thinking.	The influence of mechanical action.	23	32	4	13
+software	Did you test the software package to ensure completeness?	The market for software is expected to expand.	17	25	15	23
+tease	Tease tissue for microscopic examinations.	She has a way of teasing men with her flirtatious behavior.	0	5	17	24
+recognition	He looked at her for ten full minutes before recognition dawned.	He was unable to make his motion because he couldn't get recognition by the chairman.	45	56	57	68
+row	Row the boat across the lake.	They rowed the canals of Venice.	0	3	5	10
+colony	The American colony in Paris.	An artists' colony.	13	19	12	18
+lubricate	Lubricate my car.	The liquid in this can lubricates well.	0	9	23	33
+submit	I submit these plans for your approval.	The lawyers submitted the material to the court.	2	8	12	21
+spin	Spin silk.	Spiders spin a fine web.	0	4	8	12
+alleviator	Blessed is he who is an alleviator of suffering.	Aspirin is an alleviator of headaches.	24	34	14	24
+race	The race is to the swift.	Some biologists doubt that there are important genetic differences between races of human beings.	4	8	75	80
+bond	A $10,000 bond was furnished by an alderman.	Organic chemistry primarily consists of the study of carbon bonds, in their many variations.	10	14	60	65
+spin	He put some spin on the cue ball.	He gave the crank a spin.	12	16	20	24
+people	Old people.	There were at least 200 people in the audience.	4	10	24	30
+revamp	They plan to revamp the historical theater in the old downtown.	They revamped their old house before selling it.	13	19	5	13
+exchange	All in all, it was an even exchange.	Deductible losses on sales or exchanges of property are allowable.	27	35	30	39
+guard	The left guard was injured on the play.	Guards must be good blockers.	9	14	0	6
+acknowledge	It is important to acknowledge the work of others in one's own writing.	The Crown Prince was acknowledged as the true heir to the throne.	19	30	21	33
+thing	I couldn't tell what the thing was.	Things are going well.	25	30	0	6
+opinion	Truth, in matters of religion, is simply the opinion that has survived. -- Oscar Wilde.	My opinion differs from yours.	45	52	3	10
+claim	They struck in support of their claim for a shorter work day.	His claim asked for damages.	32	37	4	9
+distance	The distance to Petersborough is thirty miles.	There is a long distance between Moscow and Vladivostok.	4	12	16	24
+age	Age hasn't slowed him down at all.	Old age is not for sissies.	0	3	4	7
+ingenuity	A plot of great ingenuity.	The pyramids demonstrate the ingenuity of the ancient Egyptians.	16	25	29	38
+host	Atlanta was chosen to be host for the Olympic Games.	Viruses depend on the host that they infect in order to be able to reproduce.	25	29	22	26
+investment	This job calls for the investment of some hard thinking.	He made an emotional investment in the work.	23	33	21	31
+tap	Tap beer in a bar.	He was tapping his fingers on the table impatiently.	0	3	7	14
+scream	He heard the scream of the brakes.	Her screaming attracted the neighbors.	13	19	4	13
+refinement	He described a refinement of this technique.	A man of intellectual refinement.	15	25	22	32
+bravura	In a final bravura the ballerina appeared to be floating in water.	The music ends with a display of bravura.	11	18	33	40
+despair	They were rescued from despair at the last minute.	In the depths of despair.	23	30	17	24
+stick	The policy so far is all stick and no carrot.	Cigarettes are taxed at one dollar per stick.	25	30	39	44
+flip	I don't know what to do -- I may as well flip a coin!	Flip me the beachball.	41	45	0	4
+impose	I can not impose that I get what I want.	I can not impose my opinion.	10	16	10	16
+converge	The lines converge at this point.	Social forces converged to bring the Fascists back to power.	10	18	14	23
+roll	To roll a wheel, a ball, or a barrel.	The ball rolled.	3	7	9	15
+reading	Suggestions for further reading.	His main reading was detective stories.	24	31	9	16
+unleash	Unleash the dogs in the park.	He unleashed his dog in the park.	0	7	3	12
+habit	She had a habit twirling the ends of her hair.	Owls have nocturnal habits.	10	15	20	26
+bell	Saved by the bell.	She heard the distant toll of church bells.	13	17	37	42
+massacre	St. Valentine's Day massacre.	The massacre on St. Bartholomew's Day.	20	28	4	12
+pattern	The American constitution has provided a pattern for many republics.	They changed their dietary pattern.	41	48	27	34
+reek	You reek of perfume.	Your fridge reeks of egg.	4	8	12	17
+iceberg	Iceberg is still the most popular lettuce.	The Titanic hit an iceberg and sank.	0	7	19	26
+stretch	Stretch out that piece of cloth.	Stretch the limits.	0	7	0	7
+prepare	Prepare a speech.	Prepare a report.	0	7	0	7
+count	Your views don't count here.	Count your change.	17	22	0	5
+utility	A computer system provides utility programs to perform the tasks needed by most users.	I've bought a new disk utility that can recover deleted files.	27	34	23	30
+detest	I detest snakes.	She detests politicians.	2	8	4	11
+balance	He took what he wanted and I got the balance.	The balance of the agreement remains in effect.	37	44	4	11
+overhaul	You should overhaul your car engine.	Overhaul the health care system.	11	19	0	8
+parity	Parity is often used to check the integrity of transmitted data.	The parity of the mother must be considered.	0	6	4	10
+rule	Rule one's temper.	Rule the margins.	0	4	0	4
+defeat	It was a narrow defeat.	The army's only defeat.	16	22	16	22
+flagship	It is their flagship newspaper.	The retail company's store in London is their flagship.	12	20	46	54
+crispness	The crispness of his reply.	Crispness of new dollar bills.	4	13	0	9
+rock	There were rocks all over the garden.	Thou art Peter, and upon this rock I will build my church -- Gospel According to Matthew.	11	16	30	34
+obstruction	Obstruction of justice.	The filibuster was a major obstruction to the success of their plan.	0	11	27	38
+lid	He raised the piano lid.	His lids would stay open no longer.	20	23	4	8
+pulse	Pulse waves.	A transmitter pulsed by an electronic tube.	0	5	14	20
+warm	He came inside to warm up.	The soup warmed slowly on the stove.	18	22	9	15
+extent	An orchard of considerable extent.	The vast extent of the desert.	27	33	9	15
+begin	Begin a new chapter in your life.	She began Russian at an early age.	0	5	4	9
+yesterday	Yesterday's solutions are not good enough.	Yesterday's technology.	0	9	0	9
+line	That salesman must have practiced his fast line of talk.	'let me show you my etchings' is a rather worn line.	43	47	47	51
+part	The first violin part in this concerto is very challenging.	He tried to sing the tenor part.	17	21	27	31
+sleep	We need to conduct an overnight sleep test to diagnose your sleep problem.	He didn't get enough sleep last night.	32	37	21	26
+beat	He heard the beat of a drum.	The conductor set the beat.	13	17	22	26
+signal	The victory was a signal for wild celebration.	He awaited the signal to start.	18	24	15	21
+heartbeat	New York is the commercial heartbeat of America.	Music is the heartbeat of the people.	27	36	13	22
+mail	I'll mail you the paper when it's written.	I'll mail you the check tomorrow.	5	9	5	9
+stretch	Stretch my patience.	During the Inquisition, the torturers would stretch their victims on a rack.	0	7	44	51
+interview	The reporter gave the witness an interview.	My interviews with teenagers revealed a weakening of religious bonds.	33	42	3	13
+bed	The room had only a bed and chair.	He sat on the edge of the bed.	20	23	26	29
+observe	Please observe the reaction of these two chemicals.	She observed that his presentation took up too much time.	7	14	4	12
+hoist	Hoist the flags.	Hoist a sail.	0	5	0	5
+pop	Pop the clutch.	This popcorn pops quickly in the microwave oven.	0	3	13	17
+cook	My husband doesn't cook.	The apothecary cooked the medicinal mixture in a big iron kettle.	19	23	15	21
+relish	I don't relish the idea of going out tonight.	He relishes their time together.	8	14	3	11
+unload	To unload a ship.	Unload the truck.	3	9	0	6
+truth	The situation brought home to us the blunt truth of the military threat.	He was famous for the truth of his portraits.	43	48	22	27
+occupy	The young prince will soon occupy the throne.	He occupies the position of manager.	27	33	3	11
+nursing	She went into nursing as a career.	Study nursing.	14	21	6	13
+reproach	Words of reproach.	He brought reproach upon his family.	9	17	11	19
+sculpt	Sculpt a swan out of a block of ice.	She is sculpting the block of marble into an image of her husband.	0	6	7	16
+purchase	They offer a free hamburger with the purchase of a drink.	They closed the purchase with a handshake.	37	45	16	24
+experiment	Students experiment sexually.	The composer experimented with a new style.	9	19	13	25
+snorter	The storm wasn't long but it was a snorter.	A snorter of a sermon.	35	42	2	9
+agony	An agony of doubt.	Being in an agony he prayed more earnestly. -- Luke xxii. 44.	3	8	12	17
+relieve	Relieve the pressure and the stress.	This pill will relieve your headaches.	0	7	15	22
+course	The course had only nine holes.	The course was less than a mile.	4	10	4	10
+overdrive	Troops are ready to go into overdrive as soon as the signal is given.	Melissa's brain was in overdrive.	28	37	23	32
+control	Measures for the control of disease.	They instituted controls over drinking on campus.	17	24	16	24
+harness	Harness natural forces and resources.	Harness the horse.	0	7	0	7
+cascade	Separation of isotopes by a cascade of processes.	Progressing in severity as though a cascade of genetic damage was occurring.	28	35	36	43
+contrast	The students contrast considerably in their artistic abilities.	The middle school teacher contrasted her best student's work with that of her weakest student.	13	21	26	36
+faddist	He is such a fashion faddist.	The faddist magazines have been hyping that lately.	21	28	4	11
+avenue	They explored every avenue they could think of.	It promises to open new avenues to understanding.	20	26	24	31
+build	Build a modern nation.	Build a million-dollar business.	0	5	0	5
+trade	Trade in an old car for a new one.	The bells traded places.	0	5	10	16
+read	The King will read the proclamation at noon.	Have you read this book?	14	18	9	13
+loss	Loss of livestock left the rancher bankrupt.	The car was a total loss.	0	4	20	24
+talk	Actions talk louder than words.	Susan talked with Rachel.	8	12	6	12
+game	For actors, memorizing lines is no game.	For him, life is all fun and games.	35	39	29	34
+gospel	His word was gospel.	Newton's writings were gospel for those who followed.	13	19	23	29
+assent	I will give this act my assent.	He gave his assent eagerly.	24	30	12	18
+love	A mother's love is not easily shaken.	Children need a lot of love.	11	15	23	27
+neighbor	What is the closest neighbor to the Earth?	Fort Worth is a neighbor of Dallas.	20	28	16	24
+pickup	His car has a lot of pickup.	Put out a pickup on that man.	21	27	10	16
+lash	And big waves lash the frighted shores. -- John Dryden.	The whale lashes the sea with its tail.	14	18	10	16
+tense	Alternately relax and tense your calf muscle.	Tense the rope manually before tensing the spring.	22	27	0	5
+buy	I'm going to buy my father something nice for his birthday.	She buys for the big department store.	13	16	4	8
+basis	The whole argument rested on a basis of conjecture.	He worked on an interim basis.	31	36	24	29
+explosion	The information explosion.	An explosion of laughter.	16	25	3	12
+have	Have a postdoc.	She has $1,000 in the bank.	0	4	4	7
+sweep	Please sweep the floor.	Her new show dog swept all championships.	7	12	17	22
+intrude	The colors don't intrude on the viewer.	They intruded on our dinner party.	17	24	5	13
+dawn	The dawn of civilization.	It was the dawn of the Roman Empire.	4	8	11	15
+endorsement	A Democrat usually gets the union's endorsement.	The association announced its endorsement of the policy.	36	47	30	41
+sprinkling	A sprinkling of grey at his temples.	Baptized with a sprinkling of holy water.	2	12	16	26
+reform	Reform your conduct.	The Church reformed me.	0	6	11	19
+superlative	"The superlative of ""big"" is ""biggest""."	'most surely' is the superlative of the adverb 'surely'.	4	15	21	32
+high	I'm on a permanent high these days.	Summer temperatures reached an all-time high.	19	23	40	44
+help	He was a great help to me when I was moving house.	I've printed out a list of math helps.	15	19	32	37
+satellite	A spent upper stage is a derelict satellite.	The Moon is a natural satellite of the Earth.	34	43	22	31
+lump	A lump of coal.	Do you want one lump or two with your coffee?	2	6	16	20
+stalk	Stalk the woods for deer.	I stalked the woods for game.	0	5	2	9
+train	A train of thought.	It led to a train of disasters.	2	7	12	17
+immunity	The prosecutor offered the lieutenant immunity for all the crimes he would testify having known to be planned by the elusive drug baron.	He was granted immunity from prosecution.	38	46	15	23
+pizza	He ate a whole pizza!	Should we cook a frozen pizza for dinner?	15	20	24	29
+sweat	He's in a sweat about exams.	Sweat poured off his brow.	10	15	0	5
+quest	A quest for diamonds.	A quest for wealth.	2	7	2	7
+demand	The automobile reduced the demand for buggywhips.	The demand exceeded the supply.	27	33	4	10
+companion	His dog has been his trusted companion for the last five years.	Drinking companions.	29	38	9	19
+restoration	The restoration of this painting will take years.	The restoration of this medieval church involved undoing all the Victorian modifications.	4	15	4	15
+point	Point a chimney.	He pointed to the empty parking space.	0	5	3	10
+do	All you ever do is surf the Internet.	She did a little dance.	13	15	4	7
+induce	Induce a crisis.	The ads induced me to buy a VCR.	0	6	8	15
+draft	A preliminary draft.	The final draft of the constitution.	14	19	10	15
+ply	Ships ply the waters near the coast.	He plied his ax with bloody results.	6	9	3	8
+steep	Steep the blossoms in oil.	Steep the fruit in alcohol.	0	5	0	5
+brandish	Brandish a sword.	He brandished his sword at the pirates.	0	8	3	13
+suppress	Suppress a yawn.	Hot blackcurrant juice mixed with honey may suppress cough.	0	8	44	52
+screen	Screen the job applicants.	Screen the suitcases.	0	6	0	6
+entrance	Her entrance attracted no attention whatsoever.	She made a grand entrance.	4	12	17	25
+chapter	He read a chapter every night before falling asleep.	He joined the Atlanta chapter.	10	17	22	29
+work	Work stone into tools.	Work the metal.	0	4	0	4
+government	Tyrannical government.	He had considerable experience of government.	11	21	34	44
+work	Work equals force times distance.	Work is done against friction to drag a bag along the ground.	0	4	0	4
+complement	The complement of 01100101_2 is 10011011_2.	A full complement of workers.	4	14	7	17
+begin	You can not even begin to understand the problem we had to deal with during the war.	This economic measure doesn't even begin to deal with the problem of inflation.	17	22	35	40
+cultivate	Cultivate the land.	Cultivate your musical taste.	0	9	0	9
+demand	I demand an explanation.	I demand an immediate explanation.	2	8	2	8
+resolution	It was his unshakeable resolution to finish the work.	He always wrote down his New Year's resolutions.	23	33	36	47
+immunity	Some people have better immunity to diseases than others.	Immunity to criticism.	24	32	0	8
+progress	Great progress in the arts.	Science has made extraordinary progress in the last fifty years.	6	14	31	39
+slave	His mother was his abject slave.	Art thou the slave that with thy breath hast kill'd/ Mine innocent child? Shakespeare. Much Ado About Nothing.	26	31	13	18
+solve	Solve an old debt.	Did you solve the problem?	0	5	8	13
+conserve	Children must be taught to conserve our national heritage.	Energy is conserved in this process.	27	35	10	19
+channel	Poison is released through a channel in the snake's fangs.	Gutters carried off the rainwater into a series of channels under the street.	29	36	51	59
+grow	We grow wheat here.	The child grew fast.	3	7	10	14
+truth	He thought of answering with the truth but he knew they wouldn't believe it.	Hunger and jealousy are just eternal truths of human existence.	33	38	37	43
+sufficiency	He questioned the sufficiency of human intelligence.	Her father questioned the young suitor's sufficiency.	18	29	41	52
+blaze	The horse had a blaze between its eyes.	They chipped off bark to mark the trail with blazes.	16	21	45	51
+web	The trees cast a delicate web of shadows over the lawn.	Some of that content is now only available on the Web.	26	29	50	53
+move	I was sitting on the sofa for a long time, I was too lazy to move.	We moved from our previous position.	61	65	3	8
+vacate	You must vacate your office by tonight.	Vacate a death sentence.	9	15	0	6
+shock	Subjects received a small electric shock when they made the wrong response.	Corn is bound in small sheaves and several sheaves are set up together in shocks.	35	40	74	80
+retraction	The retraction of the landing gear.	Retraction of the foreskin.	4	14	0	10
+leviathan	It was a leviathan among redwoods.	They were assigned the leviathan of textbooks.	9	18	23	32
+meter	Meter the flow of water.	Meter the mail.	0	5	0	5
+tack	Tack the notice on the board.	He tacked together some verses.	0	4	3	9
+transportation	Mulligan's sentence was commuted from death to transportation.	The sentence was one of transportation for life.	47	61	24	38
+action	A man of action.	He is out of action.	9	15	13	19
+snapshot	He carried a snapshot of his daughter.	My snapshots haven't been developed yet.	13	21	3	12
+rotation	Crop rotation.	The rotation of the dancer kept time with the music.	5	13	4	12
+dig	In the wintertime, heavy truck tires dig into the road, forming potholes.	They dug an eight-foot ditch along the side of the road.	37	40	5	8
+decree	The King only can decree.	The King decreed that all firstborn males should be killed.	18	24	9	16
+zero	In unary and k-adic notation in general, zero is the empty string.	Write 0.0 to indicate a floating point number rather than the integer zero.	41	45	70	74
+dress	Parents must feed and dress their child.	I rose and dressed before daybreak.	22	27	11	18
+buster	Dam buster.	Crime buster.	4	10	6	12
+suspect	I suspect him of being the thief.	The U.S. suspected Bin Laden as the mastermind behind the terrorist attacks.	2	9	9	18
+content	The two groups were similar in content.	They could read to their heart's content.	31	38	33	40
+swim	We had to swim for 20 minutes to reach the shore.	A big fish was swimming in the tank.	10	14	15	23
+ship	Ship the cargo in the hold of the vessel.	To ship the tiller or rudder.	0	4	3	7
+trim	They traditionally trim the tree on Christmas Eve.	Trim lumber.	19	23	0	4
+trust	The experience destroyed his trust and personal dignity.	He put more trust in his own two legs than in the gun.	29	34	12	17
+establishment	He quickly became recognized as a member of the establishment.	The firm celebrated twenty years since their establishment by updating their look.	48	61	45	58
+consultation	A consultation of several medical specialists.	Frequent consultations with his lawyer.	2	14	9	22
+marmalade	Thick cut marmalade.	Lime marmalade.	10	19	5	14
+hope	In spite of his troubles he never gave up hope.	He was their best hope for a victory.	42	46	18	22
+foul	To foul the face or hands with mire.	She's fouled her diaper.	3	7	6	12
+sincerity	His sincerity inspired belief.	They demanded some proof of my sincerity.	4	13	31	40
+care	He wrote the manual on car care.	Care had aged him.	27	31	0	4
+fulfil	You made a promise, son, and now you must fulfil it.	My lady is positively fulfilled of grace.	42	48	22	31
+suspend	Suspend the particles.	The prison sentence was suspended.	0	7	24	33
+racket	What's all this racket?	Power tools work quickly, but they sure make a racket.	16	22	47	53
+negate	The investigation tending to negate any supernatural influences.	A pessimism that always negates.	29	35	24	31
+excursion	While driving home I took an excursion and saw some deer.	Many summer excursions to the shore.	29	38	12	22
+trough	The neurologist pointed to a troubling trough in the pattern of his brain-waves.	The buoy bobbed between the crests and troughs of the waves moving across the bay.	39	45	39	46
+demand	I demand to see the manager.	The boss demanded that he be fired immediately.	2	8	9	17
+warrant	I warrant this information.	The dealer warrants all the cars he sells.	2	9	11	19
+good	Weigh the good against the bad.	Among the highest goods of all are happiness and self-realization.	10	14	18	23
+consumption	The consumption of energy has increased steadily.	The fire's consumption of the forest caused ecological changes.	4	15	11	22
+focus	The controversy brought clearly into focus an important difference of opinion.	I believe I can bring the high degree of focus required for this important job.	37	42	41	46
+rank	Based on your test scores, you have a rank of 23.	The fancy hotel was of the first rank.	38	42	33	37
+quarter	A quarter of a pound.	The Latin Quarter.	2	9	10	17
+raise	To raise a wall, or a heap of stones.	Raise a barn.	3	8	0	5
+function	Price is a function of supply and demand.	Height is a function of age.	11	19	12	20
+inwardness	The sensitiveness of James's characters, their seeming inwardness.	Inwardness is what an Englishman quite simply has, painlessly, as a birthright.	55	65	0	10
+stay	Some of her friends decided it was time to go home, but she wanted to stay on until sunrise.	To stay a flat sheet in a steam boiler.	70	74	3	7
+seat	Seat a concert hall.	This classroom seats two hundred students.	0	4	15	20
+snap	If you bend it too much, it will snap.	He snapped his stick in anger.	33	37	3	10
+baseline	The ref missed the call. The ball hit the baseline.	The established a baseline for the budget.	42	50	18	26
+hide	Hide the money.	Muslim women hide their faces.	0	4	13	17
+effect	Effect a change.	The best way to effect change is to work with existing stakeholders.	0	6	16	22
+marry	A justice of the peace will marry Jones and Smith.	The minister married us on Saturday.	28	33	13	20
+attention	She was the center of attention.	The old car needs constant attention.	22	31	27	36
+active	"""The ball was kicked by Fred."" would, in active voice, be ""Fred kicked the ball.""."	'The boy threw the ball' uses the active voice.	41	47	34	40
+crook	A crook in the path.	She held the baby in the crook of her arm.	2	7	25	30
+blade	A blade of lint on his suit.	Gay young blades bragged of their amorous adventures.	2	7	10	16
+suit	What suit is trumps?	To deal and shuffle, to divide and sort Her mingled suits and sequences. --.	5	9	52	57
+communicate	Please communicate this message to all employees.	The disease was mainly communicated via rats and other vermin.	7	18	23	35
+piracy	Air piracy.	How shoud the international community respond to Somali piracy?	4	10	56	62
+figure	He didn't figure her.	I can't figure if he's telling the truth or lying.	10	16	8	14
+school	The school was founded in 1900.	When the school day was done we would walk home together.	4	10	9	15
+grind	A coarse grind of coffee.	This bag contains espresso grind.	9	14	27	32
+deck	Wow, did you see her deck that guy who pinched her?	Deck the halls with holly.	21	25	0	4
+fit	This piece won't fit into the puzzle.	I wanted to borrow my little sister's jeans, but they didn't fit.	17	20	61	64
+wall	Competition was pushing them to the wall.	His back was to the wall.	36	40	20	24
+account	Don't do it on my account.	The paper was rejected on account of its length.	18	25	26	33
+exchange	Exchange employees between branches of the company.	Exchange prisoners.	0	8	0	8
+craft	He represented the craft of brewers.	He learned his craft as an apprentice.	19	24	15	20
+proportion	An inordinate proportion of the book is given over to quotations.	A building of vast proportions.	14	24	19	30
+tack	The sailors decided to tack the boat.	The boat tacked.	23	27	9	15
+bleed	Bleed the radiators.	I bled him.	0	5	2	6
+start	It was off to a good start.	They got an early start.	21	26	18	23
+wind	Wind your watch.	The river winds through the hills.	0	4	10	15
+pig	He was a pig and his apartment a pigpen; take-away containers and pizza boxes in a long, moldy stream lined his counter tops.	The farmer kept a pen with two pigs that he fed from table scraps and field waste.	9	12	31	35
+product	This is a product of lime and nitric acid.	A product of lime and nitric acid.	10	17	2	9
+salute	When the officers show up, the soldiers have to salute.	A terrible stench saluted our nostrils.	48	54	18	25
+married	My plan is to wait to have sex until i'm married.	We invited several young marrieds.	41	48	25	33
+spike	The seismograph showed a sharp spike in response to the temblor.	The second baseman sharpened his spikes before every game.	31	36	33	39
+conflict	The two proposals conflict!	This behavior conflicts with our rules.	18	26	14	23
+juice	Squeeze the orange and some juice will come out.	Digestive juices.	28	33	10	16
+place	Place a phone call.	Place emphasis on a certain point.	0	5	0	5
+leak	The leak gained on the ship's pumps.	I have to take a leak.	4	8	17	21
+addition	The addition of flowers created a pleasing effect.	The addition of five more items to the agenda will make the meeting unbearably long.	4	12	4	12
+hedge	To hedge a field or garden.	Hedge the property.	3	8	0	5
+nest	A nest of thieves.	A nest of snipers.	2	6	2	6
+mediate	Mediate between the old and the new.	He mediated a settlement.	0	7	3	11
+procurement	He was responsible for the procurement of materials and supplies.	I have a lot of experience in the procurement of construction materials and sub-contracts.	27	38	34	45
+mold	Mold public opinion.	The furniture molded in the old house.	0	4	14	20
+interpretation	The report included his interpretation of the forensic evidence.	The edict was subject to many interpretations.	24	38	30	45
+miss	How could I miss that typo?	The workers on the conveyor belt miss one out of ten.	12	16	33	37
+deuce	Love is a bodily infirmity... which breaks out the deuce knows how or why (Thackeray).	The deuce with it.	51	56	4	9
+heart	Buddhists believe that suffering is right at the heart of all life.	The wood at the heart of a tree is the oldest.	49	54	16	21
+upset	The biggest upset since David beat Goliath.	Everyone gets stomach upsets from time to time.	12	17	22	28
+partition	Partition a room off.	The Arab peninsula was partitioned by the British.	0	9	23	34
+rudeness	His rudeness was inexcusable.	The rudeness of the cabin gave it a rustic charm but little comfort.	4	12	4	12
+material	The archives provided rich material for a definitive biography.	Coal is a hard black material.	27	35	21	29
+swarm	There swarm bees in the garden.	The garden was swarming with bees.	6	11	15	23
+humour	The sensitive subject was treated with humour, but in such way that no one was offended.	She has a great sense of humour, and I always laugh a lot whenever we get together.	39	45	25	31
+solve	Solve for x.	Solve an equation.	0	5	0	5
+correct	Correct the alignment of the front wheels.	The stock market corrected.	0	7	17	26
+intimidate	He's trying to intimidate you. If you ignore him, hopefully he'll stop.	Her boss intimidates her.	15	25	9	20
+vascularity	A prominent vascularity.	Reduced bodyfat brought out the vascularity in his arms.	12	23	32	43
+gum	If you gum the tape it is stronger.	These trees gum in the Spring.	7	10	12	15
+neck	The horse won by a neck.	He admired her long graceful neck.	19	23	29	33
+chemistry	The chemistry of soil.	Their chemistry was wrong from the beginning -- they hated each other.	4	13	6	15
+sewer	A sewer of fine gowns.	All that work went down the sewer.	2	7	28	33
+lash	Lash the horse.	To lash something to a spar.	0	4	3	7
+slope	He climbed the steep slope.	The slope of a parabola increases linearly with x.	21	26	4	9
+follow	These people still follow the laws of their ancient religion.	She followed dinner with a brandy.	19	25	4	12
+tenderness	He noted her extreme tenderness when he touched the bruise on her thigh.	The best results are generally obtained by inserting the needle into the point of maximum tenderness.	21	31	90	100
+reunite	After ten years apart, the band will reunite.	Two of the members tried several times, but failed to reunite the band.	37	44	54	61
+protocol	Academic protocol.	Safety protocols.	9	17	7	16
+importance	A person of importance.	The importance of a well-balanced diet.	12	22	4	14
+play	The Democrats still have some cards to play before they will concede the electoral victory.	He is playing his cards close to his chest.	39	43	6	13
+discourage	We should discourage this practice among our youth.	Don't be discouraged by the amount of work left to do: you'll finish it in good time.	10	20	9	20
+blanket	The city woke under a thick blanket of fog.	There was a blanket of snow.	28	35	12	19
+process	Process hair.	Process cheese.	0	7	0	7
+submission	What was the date of submission of your proposal?	Several of his submissions were rejected by publishers.	21	31	15	26
+month	July is my favourite month.	He paid the bill last month.	21	26	22	27
+sex	He wanted a better sex life.	The film contained no sex or violence.	19	22	22	25
+club	He felt as if he had been hit with a club.	He carried a club in self defense.	37	41	13	17
+resume	Resume a title.	Resume one's duties.	0	6	0	6
+bail	He is out on bail.	The judge set bail at $10,000.	13	17	14	18
+pump	Pump the gas pedal.	I've pumped over 1000 gallons of water in the last ten minutes.	0	4	5	11
+restore	Restore the emperor to the throne.	To restore harmony among those who are at variance.	0	7	3	10
+approval	He bought it on approval.	Although she fussed at them, she secretly viewed all her children with approval.	16	24	71	79
+playbook	They borrowed a page from the playbook of the opposition.	The 1963 playbook leaves out the whole first scene.	30	38	9	17
+irritate	Irritate the glands of a leaf.	Aspirin irritates my stomach.	0	8	8	17
+poison	This mushrooms can poison.	Her husband poisoned her drink in order to kill her.	19	25	12	20
+difference	You need to learn to be more tolerant of difference.	There are many differences between jazz and rock.	41	51	15	26
+hit	We hit Detroit at one in the morning but kept driving through the night.	An interesting idea hit her.	3	6	20	23
+recapitulate	Let's recapitulate the main ideas.	Ontogeny recapitulates phylogeny.	6	18	9	22
+suit	In bridge you must follow suit.	A flush is five cards in the same suit.	26	30	34	38
+capture	Capture the essence of Spring.	Capture an idea.	0	7	0	7
+cry	A cry to arms.	I heard a cry from afar.	2	5	10	13
+catcher	A catcher needs a lot of protective equipment.	A catcher plays behind the plate.	2	9	2	9
+inundate	The Dutch would sometimes inundate the land to hinder the Spanish army.	The basement was inundated after the storm.	26	34	17	26
+conscience	A person of unflagging conscience.	He has no conscience about his cruelty.	23	33	10	20
+ply	Ply an axe.	Ply the seven seas.	0	3	0	3
+lay	To lay a body in the grave.	Lay the books on the table.	3	6	0	3
+mold	A lobster mold.	A gelatin dessert made in a mold.	10	14	28	32
+vent	He vented her frustration when he got home.	She vented her anger.	3	9	4	10
+stun	Stun fish.	The news stunned her.	0	4	9	16
+onrush	From the bow she stared at the mesmerising onrush of the sea where it split and foamed.	The explosion interrupted the wild onrush of her thoughts.	43	49	35	41
+appreciate	Do you appreciate the full meaning of this letter?	To test the power of bees to appreciate color.	7	17	29	39
+clatter	The clatter of iron wheels on cobblestones.	Clatter of shutters.	4	11	0	7
+style	Style the dress.	Style my hair.	0	5	0	5
+strain	His responsibilities were a constant strain.	He created a new strain of sheep.	37	43	17	23
+makeup	She is wearing a lot of makeup.	The two teams played a makeup one week later.	24	30	23	29
+place	Place a bet.	He placed the glass on the table.	0	5	3	9
+carrier	The bonds were transmitted by carrier.	Refrigerated carriers have revolutionized the grocery business.	30	37	13	21
+variation	An emery wheel is the modern variation of a grindstone.	Any variation in his routine was immediately reported.	29	38	4	13
+image	A public image is as fragile as Humpty Dumpty.	A movie is a series of images projected so rapidly that the eye integrates them.	9	14	23	29
+pluck	Pluck the flowers off the bush.	She plucked the phone from her bag and dialled.	0	5	4	11
+marshal	Marshal the troops.	Marshal facts or arguments.	0	7	0	7
+run	Run amok.	Run riot.	0	3	0	3
+perceive	I could perceive the ship coming over the horizon.	She finally perceived the futility of her protest.	8	16	12	21
+run	Run a subject.	Run a process.	0	3	0	3
+butter	Lora buttered the toast with unsalted butter.	Lora buttered the toast.	38	44	5	13
+defensibility	Client complaints create a felt need for the defensibility of individual actions.	They built their castles with an eye to their defensibility.	45	58	46	59
+line	To line a copy book.	Trees line the riverbank.	3	7	6	10
+notice	We received a notice to vacate the premises.	He escaped the notice of the police.	14	20	15	21
+sensitivity	Sensitivity to pain.	A galvanometer of extreme sensitivity.	0	11	26	37
+stone	A heavy chap who must have weighed more than twenty stone.	She had jewels made of all the rarest stones.	52	57	38	44
+fantasy	A schoolgirl fantasy.	She made a lot of money writing romantic fantasies.	13	20	41	50
+pedal	The pedal of a loom.	There are three pedals on manual cars, two on automatics.	4	9	16	22
+read	Can you read Greek?	The gauge read 'empty'.	8	12	10	14
+occasion	At this point, she seized the occasion to make her own observation.	On the occasion of his 60th birthday.	30	38	7	15
+visibility	A windshield with good visibility.	That candidate does not have sufficient visibility to win an election.	23	33	40	50
+represent	I represent the silent majority.	The flower represents a young girl.	2	11	11	21
+drip	After putting oil on the side of the salad, the chef should drip a little vinegar in the oil.	My broken pen dripped ink onto the table.	60	64	14	21
+superlative	'least famous' is the superlative degree of the adjective 'famous'.	'fastest' is the superlative of the adjective 'fast'.	22	33	17	28
+check	Check the spelling of this word.	Check your facts.	0	5	0	5
+dash	He is preparing for the 100-yard dash.	He wooed her with the confident dash of a cavalry officer.	33	37	32	36
+real	Every integer is a real number, but not vice versa.	A real number can be regarded abstractly as an equivalence class of Cauchy sequences of real numbers.	19	23	2	6
+date	You may need that at a later date.	They hoped to get together at an early date.	29	33	39	43
+acquire	Children acquire language at an amazing rate.	I acquired a strong aversion to television.	9	16	2	10
+knitting	She put down her knitting and went to answer the phone.	I find knitting very relaxing.	17	25	7	15
+call	I would not call her beautiful.	The unions called a general strike for Sunday.	12	16	11	17
+show	All he had to show for four years of attendance at college was a framed piece of paper.	She shows her dogs frequently.	14	18	4	9
+magnitude	About the magnitude of a small pea.	They tried to predict the magnitude of the explosion.	10	19	26	35
+passing	The passing of winter.	The coach sent in a passing play on third and long.	4	11	20	27
+campaign	I managed his campaign for governor.	An election campaign.	14	22	12	20
+yacht	Would you like to go sailing on my uncle's yacht?	You are a true yachtsman! Are you a member of the local yacht club?	43	48	56	61
+extent	The full extent of the law.	The extent of his knowledge of the language is a few scattered words.	9	15	4	10
+pressure	She has felt pressure lately because her boss expects her to get the job done by the first.	The public brought pressure to bear on the government.	13	21	19	27
+repair	To repair a house, a road, a shoe, or a ship.	To repair a shattered fortune.	3	9	3	9
+laughter	He enjoyed the laughter of the crowd.	Their loud laughter betrayed their presence.	15	23	11	19
+sinking	He could not control the sinking of his legs.	After several hours of sinking an unexpected rally rescued the market.	25	32	23	30
+cloud	He opened the door and was greeted by a cloud of bats.	Clouds of blossoms.	40	45	0	6
+clean	Can you clean the windows today?	Clean the stove!	8	13	0	5
+park	Park the children with the in-laws.	Can you park right here?	0	4	8	12
+matter	What's the matter?	Several matters to attend to.	11	17	8	15
+suppress	The rescue team managed to suppress the flow of oil by blasting the drilling hole.	This drug can suppress the hemorrhage.	27	35	14	22
+wounded	The wounded lay on stretchers waiting for surgery.	They had to leave the wounded where they fell.	4	11	22	29
+foul	Foul the water.	Jones fouled for strike one.	0	4	6	12
+edition	It was too late for the morning edition.	The first edition appeared in 1920.	32	39	10	17
+ice	Look at the ice on that dame!	Americans like ice in their drinks.	12	15	15	18
+constitutionalize	A good way of exercising is to constitutionalize.	A woman's right to an abortion was constitutionalized in the 1970's.	31	48	35	53
+care	Do you care to try this dish?	The nurse was caring for the wounded.	7	11	14	20
+know	I know Latin.	This student knows her irregular verbs.	2	6	13	18
+warn	I warn you against false assumptions.	I warned him not to go too far.	2	6	2	8
+signage	The signage in the airport is designed to point the way clearly to important locations.	The poor signage at Heathrow is only in English.	4	11	9	16
+hand	He wanted to try his hand at singing.	Give the little lady a great big hand.	21	25	33	37
+coat	A second coat of paint.	When the dog shed its coat, it left hair all over the furniture and the carpet.	9	13	22	26
+lead	The lead was in the dummy.	The children were playing with lead soldiers.	4	8	31	35
+draw	He played only draw and stud.	John only had four cards of the same suit; he had a drawing hand.	15	19	52	59
+understanding	He has virtually no understanding of social cause and effect.	There was an understanding between management and the workers.	20	33	13	26
+refocus	The group needs to refocus its goals.	Refocus the image until it is very sharp.	19	26	0	7
+deliver	Render a verdict (i.e., deliver a judgment).	Deliver a captive from the prison.	24	31	0	7
+fumble	Fumble a grounder.	He fumbled the key into the lock.	0	6	3	10
+synthesize	His operas synthesize music and drama in perfect harmony.	The liver synthesizes vitamins.	11	21	10	21
+level	Level the ground.	The hunter levels the gun before taking a shot.	0	5	11	17
+processing	The processing of ore to obtain minerals.	The processing of newly arrived immigrants.	4	14	4	14
+pack	You had better pack your swollen ankle with ice.	The nurse packed gauze in the wound.	15	19	10	16
+charge	The wrestler's charge carried him past his adversary.	The battle began with a cavalry charge.	15	21	32	38
+understand	She did not understand her husband.	I understand him to be a good doctor.	12	22	2	12
+feed	Feed carrots into a food processor.	Her success feeds her vanity.	0	4	12	17
+tad	A tad too expensive.	Not a tad of difference.	2	5	6	9
+graduate	Graduate a cylinder.	This school graduates 2,000 students each year.	0	8	12	21
+lock	Lock the bike to the fence.	He was locked in a laughing fit.	0	4	7	13
+file	File one's fingernails.	File these bills, please.	0	4	0	4
+extend	Extend a hand.	Extend your backyard.	0	6	0	6
+denier	Global warming denier (see: Wikipedia: Global warming denial).	Holocaust denier (see: Wikipedia: Holocaust denial).	15	21	10	16
+topic	It was a very sensitive topic.	He kept drifting off the topic.	24	29	25	30
+holder	He's been an account holder with us since 2004.	In 2012, there were 28 living holders of the Victoria Cross or the George Cross.	21	27	30	37
+blur	To blur a photograph by moving the camera while taking it.	The fog blurs my vision.	3	7	8	13
+calve	The whales calve at this time of year.	The icebergs and glaciers calve.	11	16	26	31
+study	He knocked lightly on the closed door of the study.	Anthropology is the study of human beings.	45	50	20	25
+memory	He can do it from memory.	Memory is a facility common to all animals.	18	24	0	6
+constellate	The poets constellate in this town every summer.	Hills constellated with lights.	10	21	6	18
+segregate	We don't segregate in this county.	This neighborhood is segregated.	9	18	21	31
+alphabet	In the first year of school, pupils are taught to recite the alphabet.	The Greek alphabet has only twenty-four letters.	61	69	10	18
+infamy	A date which will live in infamy -- Franklin D. Roosevelt in response to the Japanese attack on Pearl Harbour.	Infamy, infamy -- they've all got it in for me! -- Kenneth Williams as Julius Caesar in Carry On Cleo.	26	32	8	14
+despair	He turned around in despair, aware that he was not going to survive.	One harsh word would send her into the depths of despair.	20	27	49	56
+folly	Trying to drive through a blizzard is the height of folly.	This is a war of folly.	52	57	17	22
+responsibility	Every right implies a responsibility.	Why didn't you clean the house? That was your responsibility!	22	36	46	60
+triumph	The triumph of knowledge.	The agreement was a triumph for common sense.	4	11	20	27
+tread	To tread land when too light.	For fools rush in where angels fear to tread.	3	8	39	44
+scrap	Scrap the old airplane and sell the parts.	These two fellows are always scrapping over something.	0	5	29	38
+express	Can you express this distance in kilometers?	Italians express coffee rather than filter it.	8	15	9	16
+press	Press your thumb on this spot.	He pressed down on the boards.	0	5	3	10
+crystallize	Crystallize minerals.	I crystallized the copper sulphate by slowly cooling a saturated solution.	0	11	2	14
+efficiency	The efficiency of the planning department is deplorable.	She did the work with great efficiency.	4	14	28	38
+degree	A second degree burn.	Murder in the second degree.	9	15	21	27
+vow	The old hermit, up in the mountains, took a vow of silence.	They took vows of poverty.	44	47	10	14
+refer	Refer a bill to a committee.	Refer to your notes.	0	5	0	5
+veil	Women in Afghanistan veil their faces.	The forest fire was veiled by smoke, but I could hear it clearly.	21	25	20	26
+release	The release of iodine from the thyroid gland.	A new release from the London Symphony Orchestra.	4	11	6	13
+street	He worked both sides of the street.	They walked the streets of the small town.	28	34	16	23
+glory	The glory of the sunrise.	He valued glory above life itself.	4	9	10	15
+standing	A member in good standing.	Of equal standing.	17	25	9	17
+third	He was cut down on a close play at third.	The play ended with Jones standing on third.	35	40	38	43
+radiate	This plants radiate spines in all directions.	Spokes radiate from the hub of the wheel.	12	19	7	14
+election	The results of the election will be announced tonight.	They celebrated his election.	19	27	20	28
+fix	Fix breakfast for the guests, please.	Fix the variables.	0	3	0	3
+revival	A revival of a neglected play by Moliere.	The revival of trade.	2	9	4	11
+mate	He lost the mate to his shoe.	Camels hate leaving their mates.	12	16	26	31
+fall	The rise and fall of the tides.	A fall from virtue.	13	17	2	6
+complaint	Don't come too close, I've got this nasty complaint.	I have no complaints about the quality of his work, but I don't enjoy his company.	42	51	10	20
+footing	On a friendly footing.	They were on a friendly footing.	14	21	24	31
+conduct	Conduct an orchestra.	He conducted us to the palace.	0	7	3	12
+note	The singer held the note too long.	I had to co-sign his note at the bank.	20	24	21	25
+potentiate	These anti-depressants potentiate the analgesic action of opiates.	Potentiate the drug.	23	33	0	10
+reach	Can he reach?	The water reached the doorstep.	7	12	10	17
+character	The radical character of our demands.	A real character.	12	21	7	16
+narcolepsy	He believes that narcolepsy is attributable to an inability to suppress REM sleep during waking.	Excitement induced narcolepsy caused him to sleep through the most important events of his life.	17	27	19	29
+fear	I fear the winters in Moscow.	We should not fear the Communists!	2	6	14	18
+bank	Where do you bank in this town?	He banked with Barclays.	13	17	3	9
+principle	A man of principle.	He will not violate his principles.	9	18	24	34
+vegetation	Pleistocene vegetation.	Their holiday was spent in sleep and vegetation.	12	22	37	47
+bandy	To bandy words (with somebody).	We bandied around these difficult questions.	3	8	3	10
+socialize	The old man hates to socialize.	He never socializes with his colleagues.	21	30	9	19
+population	He deplored the population of colonies with convicted criminals.	It is an estimate of the mean of the population.	16	26	37	47
+back	The fall broke his back.	The titles are printed on the backs of the books.	19	23	30	35
+analogy	The models show by analogy how matter is built up.	The operation of a computer presents and interesting analogy to the working of the brain.	19	26	53	60
+nightclub	There are both gays and heteros in this nightclub.	The gossip columnist got his information by visiting nightclubs every night.	40	49	53	63
+history	All of human history.	History takes the long view.	13	20	0	7
+belt	Belt your trousers.	The rotund man had difficulty belting his pants, and generally wore suspenders to avoid the issue.	0	4	30	37
+carry	To carry the war from Greece into Asia.	This crime carries a penalty of five years in prison.	3	8	11	18
+cancel	Cancel cheques or tickets.	The corrective feedback mechanism cancels out the noise.	0	6	34	41
+local	The expresses skipped my station, so I had to take a local.	The local seemed to take forever to get to New York.	53	58	4	9
+corner	Corner the gold market.	The car corners.	0	6	8	15
+patch	A patch of bad weather.	When ice skating, be sure to stay away from reeds, there's always thin patches of ice there and you could fall through.	2	7	71	78
+afforest	After we leave the quarry, we intend to afforest the land and turn it into a nature reserve.	Afforest the mountains.	40	48	0	8
+quarry	A British term for 'quarry' is 'stone pit'.	Michelangelo personally quarried marble from the world-famous quarry at Carrara.	20	26	62	68
+circuit	On the lecture circuit.	The international tennis circuit.	15	22	25	32
+gas	He stepped on the gas.	The atmosphere is made up of a number of different gases.	18	21	51	56
+genre	The still-life has been a popular genre in painting since the 17th century.	The computer game Half-Life redefined the first-person shooter genre.	34	39	63	68
+manner	What manner of man are you?	Her dignified manner.	5	11	14	20
+finger	Human hands have five fingers: the thumb, the forefinger (or index finger), the middle finger, the ring finger and the little finger.	Her fingers were long and thin.	67	73	4	11
+reach	To reach one a book.	This car can reach a speed of 140 miles per hour.	3	8	13	18
+lock	If you put the brakes on too hard, the wheels will lock.	She locked her jewels in the safe.	51	55	4	10
+swing	It took time to get into the swing of things.	The party went with a swing.	29	34	22	27
+divaricate	Divaricate one's fingers.	The road divaricates here.	0	10	9	20
+analyze	Analyze a sonnet by Shakespeare.	The inspector analyzed the building.	0	7	14	22
+series	The Masterworks concert series.	A comedy series.	24	30	9	15
+blaze	The blaze spread rapidly.	Go to blazes.	4	9	6	12
+ping	I'll ping my accountant -- April 15 is nearing.	My car was pinging until my last oil change.	5	9	11	18
+raise	The boss gave me a raise.	He got a 3% raise.	19	24	12	17
+underbelly	The soft underbelly of the Axis -- Winston Churchill.	The area by the canal is the underbelly of town -- not something you'd see in the guidebooks.	9	19	29	39
+sober	She's in no state to go home by herself, so make sure she doesn't drink anything else, and she'll soon sober up.	Keep him in bed until he sobers up.	103	108	25	31
+circulate	The air here does not circulate.	Blood circulates in my veins.	22	31	6	16
+bandage	Bandage an incision.	The nurse bandaged a sprained ankle.	0	7	10	18
+clip	Give him a clip round the ear!	He gave me a clip on the ear.	11	15	13	17
+abort	I wasted a year of my life working on an abort.	He sent a short message requesting an abort due to extreme winds in the area.	41	46	38	43
+expedite	This should expedite the process.	He expedited the search by alphabetizing the papers.	12	20	3	12
+fill	The bucket filled with rain.	Fill the child with pride.	11	17	0	4
+bone	I had to bone up on my Latin verbs before the final exam.	Bone the turkey before roasting it.	9	13	0	4
+spark	A spark of interest.	A spark of decency.	2	7	2	7
+summon	Summon a lawyer.	Summon all your courage.	0	6	0	6
+cybernate	Cybernate a factory.	We live in a cybernated age.	0	9	13	23
+god	He was a god among men.	Money was his god.	9	12	14	17
+issue	Issue a new uniform to the children.	Water issued from the hole in the wall.	0	5	6	12
+storage	I'd recommend backing up these files to storage before reinstalling the operating system.	There's a lot of storage space in the loft.	40	47	17	24
+contact	Litmus paper turns red on contact with an acid.	He used his business contacts to get an introduction to the governor.	26	33	21	29
+pour	Pour water over the floor.	Water poured onto the plants.	0	4	6	12
+curl	Curl my hair, please.	She curled farther down under the covers.	0	4	4	10
+theology	Jewish theology.	He studied theology at Oxford.	7	15	11	19
+cattle	So many head of cattle.	Do you want to raise cattle?	16	22	21	27
+tick	Indicate that you are willing to receive marketing material by putting a tick in the box.	He counted the ticks of the clock.	73	77	15	20
+wear	The tires showed uneven wear.	Maternity wear.	24	28	10	14
+site	The Israeli web site was damaged by hostile hackers.	A good site for the school.	16	20	7	11
+batter	The first batter hit the ball into the corner for a double.	To the dismay of his mother, the boy put his finger into the cake batter.	10	16	66	72
+size	Size gives body to a fabric.	The size of the building seemed to have increased since I was last there.	0	4	4	8
+totality	Appalled by the totality of the destruction.	The totality of war and its consequences.	16	24	4	12
+commitment	A man of energy and commitment.	His business commitments took him to London.	20	30	13	24
+disappearance	What was responsible for the disappearance of the rainforest?	He regretted the disappearance of Greek from school curricula.	29	42	17	30
+march	The march of time.	The march of science.	4	9	4	9
+stay	You can stay with me while you are in town.	Stay a bit longer -- the day is still young.	8	12	0	4
+stampede	Thunderbolts can stampede animals.	The tavern owners stampeded us into overeating.	17	25	18	27
+awareness	The crash intruded on his awareness.	I gradually passed from sleep to full awareness.	26	35	38	47
+mark	I filled the bottle up to the 500ml mark.	His arrow hit the mark.	36	40	18	22
+record	The track record shows that he will be a good president.	The lawyer has a good record.	10	16	22	28
+roast	Roast the turkey.	To roast meat on a spit.	0	5	3	8
+change	Ask the janitor to come and change the lightbulb.	After a brisk walk, I washed up and changed my shirt.	28	34	36	43
+softening	Refrigeration delayed the softening of the fruit.	He observed the softening of iron by heat.	26	35	16	25
+kettle	There's a hot kettle of soup on the stove.	To cook pasta, you first need to put the kettle on.	14	20	41	47
+tune	To tune a piano or a violin.	My piano needs to be tuned.	3	7	21	26
+mingle	He was about to mingle in an unpleasant affair.	Resourcefully he mingled music and dance.	16	22	17	24
+excogitate	The scientist must stop to observe and start to excogitate.	Excogitate a way to measure the speed of light.	48	58	0	10
+team	We need more volunteers for the netball team.	The IT manager leads a team of three software developers.	40	44	23	27
+round	We enjoyed our round of the local bars.	Hospital rounds.	15	20	9	15
+silence	He needed silence in order to sleep.	When the motor stopped, the silence was almost deafening.	10	17	28	35
+circus	They used the elephants to help put up the circus.	The children always love to go to the circus.	43	49	38	44
+bar	There was no bar against leaving.	The window was protected by steel bars.	13	16	34	38
+view	If there are any rabbits in this park, they keep carefully out of our view.	He took the computer with a view to pawning it.	70	74	28	32
+flare	The skirt had a wide flare.	She could not control her flare of rage.	21	26	26	31
+bother	A spot of bother.	A bit of a bother.	10	16	11	17
+spin	One of the planet's moons has a slower spin than the others.	The car went into a spin.	39	43	20	24
+version	His version of the fight was different from mine.	An experimental version of the night fighter.	4	11	16	23
+offspring	She was the mother of many offspring.	Industrialism prepared the way for acceptance of the French Revolution's various socialistic offspring.	27	36	93	102
+allowance	He objected to the allowance of smoking in the dining room.	A child's allowance should not be too generous.	19	28	10	19
+bare	Bare your breasts.	Bare your feelings.	0	4	0	4
+child	My youngest child is forty-three.	They had three children.	12	17	15	23
+bombshell	She was a blonde bombshell.	News of the attack came like a bombshell.	17	26	31	40
+generation	They had to wait a generation for that prejudice to fade.	Dams were built for the generation of electricity.	19	29	24	34
+string	The child drew glass beads on a string.	String pearls on a string.	32	38	0	6
+population	The population of New Jersey will not stand for this!	They hired hunters to keep down the deer population.	4	14	41	51
+produce	The tree would not produce fruit.	Produce a new play.	19	26	0	7
+boil	Boil this liquid until it evaporates.	Boil some water in a pan.	0	4	0	4
+shock	He was numb with shock.	Whole fields of wheat in shock.	17	22	25	30
+glimpse	I have only begun to glimpse the magnitude of the problem.	We glimpsed the Queen as she got into her limousine.	21	28	3	11
+interest	He has a lot of interest in vintage cars.	How much interest do you pay on your mortgage?	16	24	9	17
+glass	She collected old glass.	We collected art glass.	18	23	17	22
+recognition	Experimental psychologists measure the elapsed time from the onset of the stimulus to its recognition by the observer.	A politician whose recall of names was as remarkable as his recognition of faces.	90	101	60	71
+toast	Let us toast the birthday girl!	Toast bread.	7	12	0	5
+reading	He bought some reading material at the airport.	The teacher assigned new readings.	15	22	25	33
+penetration	The penetration of upper management by women.	Any penetration, however slight, is sufficient to complete the offense.	4	15	4	15
+agree	All parties agree in the expediency of the law.	They agreed about what to do.	12	17	5	11
+outburst	The man let out an outburst of invective.	An outburst of heavy rain.	19	27	3	11
+predecease	Husbands usually predecease their wives.	She predeceased her husband.	17	27	4	15
+affinity	The mysterious affinity between them.	In anatomical structure prehistoric man shows close affinity with modern humans.	15	23	52	60
+exploit	We must exploit the resources we are given wisely.	He is exploiting the students.	8	15	6	16
+morale	Morale is an important quality in soldiers. With good morale they'll charge into a hail of bullets; without it they won't even cross a street.	After the layoffs morale was at an all time low, they were so dispirited nothing was getting done.	54	60	18	24
+leash	He's always gotten a long leash.	Kept a tight leash on his emotions.	26	31	13	18
+mark	Mark homework.	Mark my words.	0	4	0	4
+direction	They proposed a new direction for the firm.	He looked the other direction.	20	29	20	29
+symbol	The eagle is a symbol of the United States.	Chinese people use word symbols for writing.	15	21	24	31
+hollow	He built himself a cabin in a hollow high up in the Appalachians.	Hunger had caused the hollows in their cheeks.	30	36	22	29
+fly	All nations fly their flags in front of the U.N.	The pilot flew to Cuba.	12	15	10	14
+manner	All manner of persons participate.	His rapid manner of talking.	4	10	10	16
+desire	Too much desire can seriously affect one's judgment.	A man of many desires.	9	15	14	21
+issue	She found an old issue of the magazine in her dentist's waiting room.	Politicians never discuss the real issues.	17	22	35	41
+declare	Declare dividends.	His wife declared at once for moving to the West Coast.	0	7	9	17
+vamp	Vamp up an excuse for not attending the meeting.	Vamp up an old speech.	0	4	0	4
+consideration	He showed no consideration for her feelings.	After much consideration, I have decided to stay.	13	26	11	24
+salvation	In Islam, salvation is achieved by praying in the mosque to Allah and following the sunnah of Muhammad.	The salvation of his party was the president's major concern.	10	19	4	13
+determination	The determination of molecular structures.	His determination showed in his every movement.	4	17	4	17
+property	Self-confidence is not an endearing property.	The president was concerned about the property across from the White House.	36	44	38	46

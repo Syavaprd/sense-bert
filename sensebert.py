@@ -38,7 +38,7 @@ def _load_model(name_or_path, session=None):
     if session is None:
         session = tf.get_default_session()
 
-    model = tf.saved_model.load(export_dir=_get_model_path(name_or_path), sess=session, tags=[tf.saved_model.SERVING])
+    model = tf.compat.v1.saved_model.load(export_dir=_get_model_path(name_or_path), sess=session, tags=[tf.saved_model.SERVING])
     serve_def = model.signature_def[tf.saved_model.DEFAULT_SERVING_SIGNATURE_DEF_KEY]
 
     inputs, outputs = ({key: session.graph.get_tensor_by_name(info.name) for key, info in puts.items()}
