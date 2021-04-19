@@ -1,0 +1,64 @@
+Target word is access Sentence is Adults have had access to the only approved antiviral drug since 1987.
+['verb.possession', 'noun.communication', 'verb.motion'] with probabilities [0.18373659 0.18058898 0.17205024]
+
+
+Target word is access. Sentence is NGOs represent a very good point of access.
+['noun.attribute', 'verb.motion', 'noun.communication'] with probabilities [0.18109645 0.17895187 0.17002381]
+
+
+Target word is access Sentence is So you can have access through your computer on your desk.
+['verb.motion', 'verb.possession', 'noun.attribute'] with probabilities [0.18848221 0.18819202 0.16583738]
+
+
+Target word is cells Sentence is This kind of drug can slowly discharge the mold element from the cells of plants in water.
+['noun.group', 'noun.artifact', 'noun.body'] with probabilities [5.0079912e-01 4.9877584e-01 2.4116792e-04]
+
+
+Target word is cell Sentence is Since the bombing he has had psychological problems and has found himself locked in a police cell on three occasions after being picked up.
+['noun.artifact', 'noun.group', 'noun.state'] with probabilities [5.0679517e-01 4.9289343e-01 1.7323291e-04]
+
+
+Target word is cells Sentence is Biologists mixed a mold element in the cells of plants with pearl powder to produce a granulated drug.
+['noun.group', 'noun.artifact', 'verb.creation'] with probabilities [5.1378530e-01 4.8582464e-01 8.1963706e-05]
+
+
+Target word is park Sentence is Banks was convicted of shooting and killing a 16 - year - old at a park in 1980.
+['verb.motion', 'noun.artifact', 'noun.location'] with probabilities [0.26569608 0.19068041 0.18950857]
+
+
+Target word is park. Sentence is They say it will be likely sold to a developer and be turned into a technology park.
+['noun.person', 'verb.motion', 'noun.location'] with probabilities [0.21638295 0.19913697 0.19879591]
+
+
+Target word is questioned Sentence is Kostunica has questioned the legality of the Hague Tribunal, and talked of trying Milosevic in Yugoslavia.
+['noun.group', 'noun.location', 'adj.pert'] with probabilities [0.23868479 0.23785892 0.13484643]
+
+
+Target word is questioning Sentence is He says daily he spent studying and questioning uh and soulsearching.
+['noun.communication', 'adj.all', 'verb.communication'] with probabilities [0.34014007 0.33661878 0.32055786]
+
+
+Target word is poured Sentence is Lord Byron poured himself another glass of wine and held it up to the candle flame admiring the rich color.
+['verb.possession', 'verb.motion', 'verb.weather'] with probabilities [0.40075237 0.3656803  0.23200671]
+
+
+Target word is poured Sentence is He poured a drink with trembling hands and flopped limply in a chair.
+['verb.possession', 'verb.motion', 'verb.weather'] with probabilities [0.40171704 0.37745634 0.21945098]
+
+
+Target word is poured Sentence is And the national ~GOP poured in half a million dollars in anti-Hackett television ads.
+['verb.cognition', 'verb.social', 'noun.act'] with probabilities [0.5568902  0.28332603 0.1424788 ]
+
+
+Target word is root Sentence is Anyway, the A's gave you a lot of heroes to root for.
+['verb.possession', 'adv.all', 'adj.all'] with probabilities [0.4710683  0.1308711  0.08930031]
+
+
+Target word is rooting Sentence is Boy I'm rooting for George Mason.
+['noun.artifact', 'noun.person', 'adj.all'] with probabilities [0.42288408 0.23618264 0.06077249]
+
+
+Target word is rooted Sentence is Rather it is rooted in a difference of response to the threat of social disintegration.
+['adj.all', 'verb.change', 'verb.stative'] with probabilities [0.27353787 0.26234654 0.24220273]
+
+
