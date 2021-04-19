@@ -1,0 +1,80 @@
+Target word is: "access"
+Sentence is: "Adults have had access to the only approved antiviral drug since 1987."
+Senses are ['verb.possession', 'noun.communication', 'verb.motion'] with probabilities [0.18, 0.18, 0.17]
+
+
+Target word is: "access."
+Sentence is: "NGOs represent a very good point of access."
+Senses are ['noun.attribute', 'verb.motion', 'noun.communication'] with probabilities [0.18, 0.18, 0.17]
+
+
+Target word is: "access"
+Sentence is: "So you can have access through your computer on your desk."
+Senses are ['verb.motion', 'verb.possession', 'noun.attribute'] with probabilities [0.19, 0.19, 0.17]
+
+
+Target word is: "cells"
+Sentence is: "This kind of drug can slowly discharge the mold element from the cells of plants in water."
+Senses are ['noun.group', 'noun.artifact', 'noun.body'] with probabilities [0.5, 0.5, 0.0]
+
+
+Target word is: "cell"
+Sentence is: "Since the bombing he has had psychological problems and has found himself locked in a police cell on three occasions after being picked up."
+Senses are ['noun.artifact', 'noun.group', 'noun.state'] with probabilities [0.51, 0.49, 0.0]
+
+
+Target word is: "cells"
+Sentence is: "Biologists mixed a mold element in the cells of plants with pearl powder to produce a granulated drug."
+Senses are ['noun.group', 'noun.artifact', 'verb.creation'] with probabilities [0.51, 0.49, 0.0]
+
+
+Target word is: "park"
+Sentence is: "Banks was convicted of shooting and killing a 16 - year - old at a park in 1980."
+Senses are ['verb.motion', 'noun.artifact', 'noun.location'] with probabilities [0.27, 0.19, 0.19]
+
+
+Target word is: "park."
+Sentence is: "They say it will be likely sold to a developer and be turned into a technology park."
+Senses are ['noun.person', 'verb.motion', 'noun.location'] with probabilities [0.22, 0.2, 0.2]
+
+
+Target word is: "questioned"
+Sentence is: "Kostunica has questioned the legality of the Hague Tribunal, and talked of trying Milosevic in Yugoslavia."
+Senses are ['noun.group', 'noun.location', 'adj.pert'] with probabilities [0.24, 0.24, 0.13]
+
+
+Target word is: "questioning"
+Sentence is: "He says daily he spent studying and questioning uh and soulsearching."
+Senses are ['noun.communication', 'adj.all', 'verb.communication'] with probabilities [0.34, 0.34, 0.32]
+
+
+Target word is: "poured"
+Sentence is: "Lord Byron poured himself another glass of wine and held it up to the candle flame admiring the rich color."
+Senses are ['verb.possession', 'verb.motion', 'verb.weather'] with probabilities [0.4, 0.37, 0.23]
+
+
+Target word is: "poured"
+Sentence is: "He poured a drink with trembling hands and flopped limply in a chair."
+Senses are ['verb.possession', 'verb.motion', 'verb.weather'] with probabilities [0.4, 0.38, 0.22]
+
+
+Target word is: "poured"
+Sentence is: "And the national ~GOP poured in half a million dollars in anti-Hackett television ads."
+Senses are ['verb.cognition', 'verb.social', 'noun.act'] with probabilities [0.56, 0.28, 0.14]
+
+
+Target word is: "root"
+Sentence is: "Anyway, the A's gave you a lot of heroes to root for."
+Senses are ['verb.possession', 'adv.all', 'adj.all'] with probabilities [0.47, 0.13, 0.09]
+
+
+Target word is: "rooting"
+Sentence is: "Boy I'm rooting for George Mason."
+Senses are ['noun.artifact', 'noun.person', 'adj.all'] with probabilities [0.42, 0.24, 0.06]
+
+
+Target word is: "rooted"
+Sentence is: "Rather it is rooted in a difference of response to the threat of social disintegration."
+Senses are ['adj.all', 'verb.change', 'verb.stative'] with probabilities [0.27, 0.26, 0.24]
+
+
